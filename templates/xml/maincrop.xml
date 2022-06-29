@@ -1,0 +1,1683 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cropproduction>
+    <crop>
+        <cropname>Wheat</cropname>
+        <cropid>1</cropid>
+        <category>cereals</category>
+        <botanicalname>Triticum aestivum</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Robinz</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>KS- Chui</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Kenya eagle</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Kenya kingbird</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            Wheat (Triticum aestivum) belongs to the family Poaceae.
+            
+            In Kenya, it is the second most important cereal grain crop after maize and is grown in areas like Narok, Kitale, Nakuru, Trans-Nzoia, Uasin Gishu, some parts of Laikipia, among others.
+          
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall> wheat does well in moderate rainfall ranging from 500-1300mm.</rainfall>
+            <soil> 
+                for optimum production, wheat requires a deep fertile soil which is well drained and with an optimum soil PH of between 5.5-7.5. Wheat crop is very sensitive to soil salinity.
+            </soil>
+            <temperature>
+                the crop requires a relatively warm temperature range of 15-25 degrees centigrade for at least three months. Temperatures above 35 degrees centigrade stop photosynthesis and the growth of the crop. At a higher temperature, e.g. 40 degrees centigrade, the crop dies due to the heat.
+            
+            </temperature>
+            <altitude>
+                wheat growing areas have an altitude range of 1500-2900m asl.
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Propagation is by seeds.
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                    Land preparation. This is made easier by use of CLAMPDOWN 480SL 200ml/20l which is a non-selective herbicide used to kill all types of weeds.
+                
+              
+                    Till soil to a depth of about 6 inches.
+                
+                
+                    Mix soil with manure and DAP. In order to improve the rate of nutrient uptake as well as to stimulate crop growth among other benefits, mix DAP 50kg and /or manure 1 ton with 1kg of HUMIPOWER. 
+                
+               
+                    Sow seeds. This can be achieved through broadcasting, dibbling the seeds or using a drill at a depth of about 4cm
+                
+               
+                    Cover the seeds with a thin layer of soil. A rake can be used in small scale farming. This prevents seeds from drying out in the sun and from being fed by birds.
+                
+               
+                    Water the newly sown seeds. This may be optional especially if planting has been done on the onset of rains or the soil is moist enough to allow for the seeds to germinate.
+                
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Wheat aphids
+                    </pestname>
+                    <p>
+                            infestation causes yellowing and premature death of leaves. As these aphids feed, they secrete honeydew which encourages the development of sooty mold. They are also vectors of barley yellow dwarf virus. 
+                        
+                        
+                            Spray KINGCODE ELITE 50EC 10ml/20l or LEXUS 247SC 8ml/20l or PENTAGON 50EC 10ml/20l 
+                         
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Thrips
+                    </pestname>
+                    <p>
+                        
+                            These are piercing and sucking insects found mostly behind the sheath of the flag leaf feeding. They attack leaves, stems and heads causing significant damages.
+                        
+                        
+                            Spray ALONZE 50EC 5ml/20l or PROFILE 440EC 30ml/20l or DEFENDER 25EC 40ml/20l 
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Nematodes
+                    </pestname>
+                    <p>
+                            infestation leads to formation of galls/swellings on the roots. This reduces plant vigour resulting into stunted growth.
+                        
+                      
+                            Drench soil with ALONZE 50EC 10ml/20l or mix 2-3 kg ADVENTURE 5GR with 50kg of basal fertilizer whenever applying fertilizers. 
+                        
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>
+                        Brown leaf rust
+                    </diseasename>
+                    <p>
+                       
+                            infection leads to formation of circular or slightly elliptical pustules which are smaller than those of stem rust. These do not coalesce and have masses of orange to orange brown fungal growth. In severe cases, the leaf dies 
+                        
+                       
+                            Spray DUCASSE 250EC 20ml/20l or MILESTONE 250EC 10ml/20l or JUPITER 125SC 20ml/20l 
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>
+                        Powdery mildew
+                    </diseasename>
+                    <p>
+                        white to pale grey powdery colonies of fungal growth develop on the upper surfaces of leaves and leaf sheaths. Sometimes, spikes are attacked. Heavy infections cause significant losses.
+                      Spray RANSOM 600WP 15g/20l or EXEMPO CURVE 250SC 20ml/20l or JUPITER 125SC 20ml/20l  
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>
+                        Barley yellow dwarf
+                    </diseasename>
+                    <p>
+                        this is a viral disease. The symptoms vary from one variety to the other. The leaves of attacked plant turn yellow, stunt, and become stiff. The heads become discoloured especially during ripening. 
+                        
+                      Control aphids by spraying KINGCODE ELITE 50EC 10ml/20l or LEXUS 247SC 8ml/20l or PENTAGON 50EC 10ml/20l
+                        
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p>
+                        In order to achieve optimum crop production, sufficient nutrients should be made available for the crop. This could be achieved through use of basal fertilizer, e.g. DAP, CAN etc. or foliar fertilizers, e.g. OPTIMIZER, GREENPHITE, LEGENDARY, among others. In addition, proper timing is critical in order to avoid loss of nutrient elements through volatilization, leaching or any other ways.
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>Phosphorous deficiency</deficiencyname>
+                    <p>
+                            this results into stunted growth with development of few shoots. In severe cases, leaves turn pale to yellowish red starting with the older leaves. Eventually, the leaves die. Formation of small heads is a common symptom of phosphorous deficiency. 
+                        
+                            Correction; spray DIMIPHITE 30ml/20l or GREENPHITE 80ml/20l or LAVENDER 20ml/20l or PLANT SOUL 40ml/20l or GATIT SUPER START 50g/20l
+                        
+                    </p>
+                </deficiency>
+                <deficiency>
+                    <deficiencyname>Nitrogen deficiency</deficiencyname>
+                    <p>
+                            wheat appears pale green with older leaves turning yellow first, from the tip to the sheath. In cases of severe deficiency, necrosis occurs. Production of small grains is evident also. 
+                        
+                            Spray LAVENDER 20ml/20l or GATIT SUPER GROWTH 50g/20l 
+                         
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Like in other crops, weeds in wheat plantation compete for nutrients, water, space and sunlight as well as harbouring pathogens. Weed infestation causes significant losses and should thus be controlled.
+                
+                The following herbicides are effective in controlling weeds;
+                
+                AGROMINE 860SL 150ml/20l this is a selective herbicide which kills broadleaved weeds only. It should applied before piping stage, when crop has developed 5-6 leaves.
+                TRIBUTARY 750WDG 3g/20l- this is a selective herbicide with a systemic mode of action and fit for the control of broadleaved weeds when crop is in the 3-5 leaf stage.
+                DIGESTER SUPER 69EW 50ml/20l- this is a selective herbicide with both contact and systemic actions and is used to control annual and perennial grass weeds.
+                
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Wheat is ready for harvesting after about four months, which varies with the different varieties. When ready for harvesting, tools like sickles or sharp knives are used to cut the wheat heads. This is commonly done by the small scale farmers. Large scale farmers use machines like the combined harvesters. The harvested wheat heads are threshed, dried and winnowed.
+                
+                After this, the wheat is milled in order to obtain wheat flour. This flour can be bleached to give an attractive and a desired colour or consumed directly. Wheat flour is highly nutritious and is used in bakeries to make cakes, breads etc. and in homes to make chapatis among others. Wheat bran/waste provides a good dairy/chicken feed.
+                
+                A one- acre piece of land can produce over 20-100kg sacks of wheat
+            </p>
+        </maturityandharvesting>
+    </crop>
+    
+    <crop>
+        <cropname>Sorghum</cropname>
+        <cropid>2</cropid>
+        <category>cereals</category>
+        <botanicalname>Sorghum bicolore</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Gadam </name>
+                <colour>Grey</colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Seredo</name>
+                <colour>Brown</colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Serena</name>
+                <colour>Brown</colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Mtama 1</name>
+                <colour>White</colour>
+            </variety>
+            <variety>
+                <varietyid>5</varietyid>
+                <name>Mtama 2</name>
+                <colour>Green</colour>
+            </variety>
+            <variety>
+                <varietyid>6</varietyid>
+                <name>Grand Naine</name>
+                <colour>White</colour>
+            </variety>
+            <variety>
+                <varietyid>7</varietyid>
+                <name>E 1291</name>
+                <colour>Brown</colour>
+            </variety>
+            <variety>
+                <varietyid>8</varietyid>
+                <name>E 6518</name>
+                <colour>Brown</colour>
+            </variety>
+            <variety>
+                <varietyid></varietyid>
+                <name>IS76</name>
+                <colour>White</colour>
+            </variety>
+        </varieties>
+        <cropabout>
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                an annual rainfall of 400-650mm is adequate for optimal production of sorghum. The crop can however withstand drier conditions and still remain green at relatively low moisture levels. It is resistant to waterlogging.
+            
+            </rainfall>
+            <soil>
+                although sorghum can produce reasonably on infertile soils, for best results, the crop requires a fairly fertile soil which is well drained.
+            
+            </soil>
+            <temperature>
+                warm temperatures of between 15-35 degrees centigrade are fit for the growth and development of this crop. Colder conditions may extend the maturity period of the crop.
+         
+            </temperature>
+            <altitude>
+                the crop grows well in areas below 1500m ASL. Poor yields are achieved in areas of higher altitudes and the crop is also prone to attack by pests, e.g. shoot flies
+            
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Propagation is by seeds
+        </propagation>
+        <landpreparationplanting>
+            <p>
+               
+                    Land should be prepared earlier and planting done at the onset of the rains. Late planting can lead to reduced yields.
+              
+                    Seeds are broadcasted or sown directly into furrows on the well prepared seedbed. A row spacing of 45-60cm and plant-to-plant spacing of 12-20cm is suitable, especially if the conditions are favourable. In drier conditions, a wider spacing is adopted.
+                
+                
+                    The crop can be planted as a pure stand or intercropped with other crops like maize, beans, and cowpeas, among others. 
+              
+                    Germination occurs within 5-7 days after sowing.
+                
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Cutworms
+                    </pestname>
+                    <p>
+                      
+                            these are black or brown in colour and cut off young plants at or slightly below the soil level. Attacked plants die.
+                     
+                            Dress seeds with SHIELD 600FS 3ml/kg 
+                     
+                            DRENCH soil with PROFILE 440EC 60ml/20l or PENTAGON 50EC 20ml/20l 
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Chafer grubs
+                    </pestname>
+                    <p>
+                            they are whitish caterpillars found in the soil which feed on the roots and may kill young seedlings.
+                        
+                            Dress seeds with SHIELD 600FS 3ml/kg
+                        
+                            Drench soil with RANGER 480SL 60ml/20l or PROFILE 440EC 60ml/20l or LOYALTY 700WDG 10g/20l
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Sorghum shoot fly
+                    </pestname>
+                    <p>
+                            the larva enters the funnel of the crop and moves down to feed on the young shoot killing the growing point and the youngest leaf which turns brownish and withers this damage is commonly referred to as ‘dead heart’. Tillers can also be attacked.
+                       
+                            Spray KINGCODE ELITE 50EC 10ml/20l or PENTAGON 50E 10ml/20l or LEXUS 247SC 8ml/20l
+                        
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>
+                        Damping off
+                    </diseasename>
+                    <p>
+                            infection causes rotting of seeds before they emerge as well as seedlings after emergence from the soil.
+                        
+                            Drench soil with PYRAMID 700WP 100g/20l 
+                        
+                            Spray crop with CHANCETYL ELITE 800WDG 50g/20l 
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>
+                        Leaf blight
+                    </diseasename>
+                    <p>
+                            small reddish purple or yellow-brown spots develop on the leaves of the infected plants.in severe cases, these spots coalesce, covering the entire leaf. This makes the leaf appear to be burnt.
+                       
+                            Spray GEARLOCK TURBO 250WP 25g/20l or FORTRESS GOLD 720WP 40g/20l or TOWER 720WP 50g/20l
+                        
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p>
+                        
+                            In order to achieve maximum production, the crop should be supplied with enough nutrients. The amount of fertilizer to be applied to the crop however depends on the fertility of the soil. Application of both basal and foliar fertilizers is recommended.  
+                       
+                            Basal fertilizers (DAP, CAN, NPK, etc.) should be mixed with HUMIPOWER at all times of application at the ratio 50:1. 
+                        
+                            Foliar fertilizers like OPTIMIZER, LAVENDER, among others are sprayed to the crops in order to supply both macro and micro elements required by the plants for their growth and development. Timely application of fertilizer should be observed.   
+                        
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>Potassium deficiency</deficiencyname>
+                    <p>
+                            leaves develop marginal chlorosis then necrosis starting with the older ones to the young ones. Stunted growth occurs in severe cases of deficiency.
+                        
+                            Correction; spray DIMIPHITE 30ml/20l or GREENPHITE 60ml/20l or LEGENDARY 20ml/20l
+                        
+                    </p>
+                </deficiency>
+                <deficiency>
+                    <deficiencyname>Nitrogen deficiency</deficiencyname>
+                    <p>
+                            the growth rate is highly reduced and leaves turn yellow, starting with the older ones. Plants become stunted as deficiency continues. 
+                       
+                            Correction; spray LAVENDER 20ml/20l or GATIT SUPER GROWTH 50g/20l  
+                        
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Sorghum field should be kept weed free especially during the early growth stages. This is in order to minimize competition for nutrients, moisture and space, by the weeds.
+                
+                The following herbicides are used to control weeds in sorghum field;
+                
+                CLAMPDOWN 480SL 200ml/20l- this is used before planting to kill all kinds of weeds.
+                AGROMINE 860SL 150ml/20l – it is a selective herbicide which kills broadleaved weeds and is applied when crop is about 30cm high.
+                HURRICANE 200SL 200ml/20l- this kills all types of weeds and is applied at later growth stages, usually sprayed between the sorghum rows.
+           
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Sorghum is ready for harvesting 3-4months after sowing, depending on the variety and ecological factors. This is when the grains are hard and do not produce milk when crushed.
+                
+                The heads are cut off with a knife or sickle and sun dried. Alternatively, the entire plant can be cut and the heads removed later.
+                
+                For large scale farming, combine harvesters are used.
+                
+                If the crop is meant for seed production, harvesting should be done at maturity stage while that meant for fodder should be cut when still green and fresh.
+                
+                Seeds are obtained through threshing the dry heads, winnowing and may be seed-dressed for a longer shelf life. They are stored in treated gunny or PICS on pallets, not directly on the floor.
+            
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Bean</cropname>
+        <cropid>3</cropid>
+        <category>cereals</category>
+        <botanicalname>Phaseolus vulgarise</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Rose Coco</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Mwitemania</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Wairimu</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Mwezi Moja</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>5</varietyid>
+                <name>Canadian W</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>6</varietyid>
+                <name>KK 15</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            Bean (Phaseolus vulgaris) is considered as one of the most important legumes worldwide, which is a source of nutrients to many people. It is a staple food crop in Kenya, which rates second after maize.
+            
+            The crop is grown in almost all regions in Kenya. However, Eastern, Nyanza, Central, Western and Rift valley are the major bean growing provinces.
+            
+            Bean crops grow with very minimum care and adds Nitrogen to the soil.
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                a well distributed annual rainfall of between 800-2000mm is suitable for the rain fed production. Irrigation should be done if rainfall is inadequate. Too much rain or long dry spells are not conducive and reduces yields. Excessive rainfall during flowering causes flower abortion and increased disease incidences. Dry weather conditions are needed during harvesting.
+          
+            </rainfall>
+            <soil>
+                bean crop thrives in a well-drained soil which is rich in organic matter, weed free and has an optimum PH of 6.5-7.5. Growth is poor in waterlogged soils. 
+            
+            </soil>
+            <temperature>
+                beans grow in temperatures ranging from 15-33 degree centigrade. However, an optimum growing temperature of 20-25 degrees centigrade is essential. Relatively high temperatures affect flowering and pod setting processes. The crop is very sensitive to frost.
+            
+            </temperature>
+            <altitude>
+                the crop does well at an optimum altitude range of up to between 1000-2100M ASL. It however tends to grow and mature faster in low altitude zones.
+            
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            It is advisable to use certified seeds or those that are disease free. Wrinkled, damaged and diseased seeds should not be planted.
+           
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                    Planting should be done at the onset of the rains if production is rain fed. Delay in sowing may lead to crop failure or reduced yield. 
+                
+                    Seeds are planted at a spacing of 40*15cm (2seeds per hill) or 30*15cm (1seed per hill), at a depth of 1-2 inches.
+                
+                    The crop can be intercropped with others like maize. 
+                
+                    Seeds germinate within 4-7days, depending on the variety and environmental factors.
+                
+                    NB; Do not plant beans where soil Nitrogen is too high or where green manure crops were grown. This is because, the crops will produce green foliage with very few beans.
+                 
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Cutworms
+                    </pestname>
+                    <p>
+                            these are brown or black caterpillars usually found in the soil, which cut the stem of younger plants below the soil surface.  
+                        
+                            Dress seeds with SHIELD 600FS 3ml/kg  
+                        
+                            DRENCH soil with PROFILE 440EC 60ml/20l or PENTAGON 50EC 20ml/20l 
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Bean fly
+                    </pestname>
+                    <p>
+                            the larva tunnels into the plant stem damaging the vascular tissue, causing reduced plant vigour and petiole droop in older crops. Severe infestations can lead to death of seedling. Crops are at a greater risk for 3-4weeks after emergence, however, later on, crops can be attacked. 
+                        
+                            Do seed dressing with SHIELD 600FS 3ml/kg 
+                        
+                            Drench soil with EMERALD 200SL 20ml/20l or PROFILE 440EC 60ml/20l
+                        
+                            Spray KINGCODE ELITE 50EC 10ml/20l or LEXUS 247SC 8ml/20l to kill the adults. 
+                        
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Bean rust</diseasename>
+                    <p>
+                            infection leads to formation of reddish brown pustules on leaves, pods and stems. Heavy infections cause plant death. 
+                        
+                            Spray MILESTONE 250SC 10ml/20l or DUCASSE 250EW 20ml/20l or RANSOM 600WP 15g/20l   
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>Downy mildew</diseasename>
+                    <p>
+                            infection begins on the underside of the leaf which leads to formation of whitish or grey mass of fungal growth. The upper side of the leaf becomes chlorotic. Pods develop whitish patches. 
+                        
+                            Spray GEARLOCK TURBO 250WP 25g/20lor FORTRESS GOLD 720WP 40g/20l or TOWER 720WP 50g/20l  
+                        
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p>
+                            For optimal production, it is important to ensure that the crop is supplied with sufficient nutrients, both macro and micro nutrient elements. This is because, if deprived of such nutrients, the crop becomes weak and very susceptible to attack by pathogens. This subsequently leads to reduced yield.  
+                        
+                            During planting, application of DAP is recommended. Considering the amount of organic matter in the soil, manure can also be applied. In order to improve on nutrient uptake by the plants as well as stimulating their growth, the fertilizer and/or manure should be mixed with HUMIPOWER at the rate of 1kg Humipower into 1 ton manure or 50kg basal fertilizer.  
+                        
+                            4-5 weeks after germination, top dressing should be done. CAN is used, which should also be mixed with HUMIPOWER.
+                        
+                            However, these basal fertilizers should be supplemented with foliar fertilizers because they have a wide range of nutrient elements which are very vital to the plants. 
+                        
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>foliar feeds</deficiencyname>
+                    <p>
+                            OPTIMIZER 10ml/20l– this is a stress manager, helps in boosting plant’s immunity, prevents flower abortion among other benefits and can be sprayed at any stage of the crop development. It contains both macro and micro nutrient elements.
+                        
+                            GATIT SERIES 50g/20l – this takes care of the crop at the different stages of growth and development, e.g., Gatit Super Start ( early crop development), Gatit Super Flowers and Fruits (for flowering and fruiting/pod development stages). 
+                        
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Weeding should be done in order to avoid losses attributed to weed infestation. This is because they compete with the crop for nutrients, water, space, among others, as well as harbouring pests and diseases.
+                
+                CLAMPDOWN 480SL 200ml/20l is used to kill all types of weeds during land preparation. This helps in reducing the development of weeds, even throughout the crop season.
+                HOTLINE 450SC 50ml/20l is a selective herbicide used to kill weeds in bean garden before the crop emergences.
+                
+                After emergence and before flowering, weeding is essential.
+                
+                NOTE; whenever doing any foliar spray, the product (insecticide, fungicide, foliar feed or herbicide) should be mixed with INTEGRA 3ml/20l. This is a sticker, spreader, wetter and penetrant, which improves the efficacy of the product.
+           
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Depending on the various varieties, beans are ready for harvesting 70-120 days after sowing. Others take shorter periods. At maturity, the plants have matured and leaves turned yellowish to brown or fallen.
+                
+                Beans can be harvested green or when dry.
+                
+                Pods are harvested when completely dry. However, if they have withered but are still moist, they can be picked and sun dried.  Plants can also be uprooted if most of the pods are ready for harvesting.
+                
+                Pods that are completely dry split open, exposing the dried beans.
+                
+                Dry beans are stored in treated gunny or PICS bags which help to prevent major damages caused by storage pests. It is advisable to incorporate the seeds with an insecticide, e.g. Actellic super to prevent damages while in the store by pests. Bags should be placed on pallets, not directly on the floor.
+                
+                Green beans can be refrigerated for 8-10 days.
+                
+                Dried beans can be stored in a cool, dry place for up to a year or more.
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Cowpea</cropname>
+        <cropid>4</cropid>
+        <category>cereals</category>
+        <botanicalname>Vigna unguiculata</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Katumani 80 (K80)</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>KVU 27-1, 419</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Kunde 1</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>MTW 63, 610</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>5</varietyid>
+                <name>Machakos 66 (M66)</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>6</varietyid>
+                <name>GKitui black eye</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>7</varietyid>
+                <name>Other local varieties</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            Cowpea (Vigna unguiculata) is an annual leguminous crop which is grown for its seeds and leaves, and its residues can used as livestock fodder. It can withstand drought, short growing period and its multi-purpose use makes it an attractive alternative for farmers in marginal, drought-prone areas with low rainfall.
+            
+            The crop is also an important component in crop rotation because it has the ability to restore soil fertility. Besides, early maturing varieties provide food sooner than any other crops.
+            
+            The main cowpea growing areas in Kenya are Kitui, Kisii, Migori, Kakamega, Bungoma, Machakos, Makueni, Kwale, Kilifi and Tharaka Nithi.
+            
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                Cowpeas are relatively drought tolerant and can give reasonable yields with minimal annual rainfall of between 300-700mm. Too much rain or long dry spells are reduce yields. Excessive rainfall during flowering causes flower abortion while dry weather conditions are important during harvesting.
+          
+            </rainfall>
+            <soil>
+                Cowpeas can be grown on a wide range of soils. However, well drained fertile soils with an optimum PH of 5.5-6.5 promote better production.
+           
+            </soil>
+            <temperature>
+                Cowpeas perform best in warm conditions. An optimum temperature of between 20-35°C is fit for their growth. Extreme temperatures affect crop growth and development.
+            
+            </temperature>
+            <altitude>
+                The crop can be grown in areas of altitudes of 0-2000metres above sea level, depending on the variety.
+           
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Cowpea is directly grown from seed, and depending on the purpose for production, it can be grown as a sole crop or intercrop with other crops like cereals, e.g. maize. 
+            
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                    Land preparation should be done early to allow for weeds to dry and decompose before planting.
+                
+                    Planting should be done at the onset of the rains if production is rain fed. Delayed sowing may cause crop failure or reduced yield.
+                
+                    Spray weeds with CATAPULT® 480SL 200ml/20L.This kills both the broadleaf and grass weeds.
+                
+               
+                    Plough and prepare the land into a fine tilth.
+                
+                
+                    Mix soil with manure and DAP. For efficient and improved nutrient uptake as well as stabilizing soil pH, mix 1kg HUMIPOWER® with 50kg DAP and /or 1 ton of manure.
+               
+                    Sow the seeds at a spacing of 6 inches apart and 24 inches between the rows, about 3-4cm deep.
+              
+                    Cover seeds with loose soil.
+                
+                    Use certified seeds. 
+                
+                    Germination occurs within 4-10 days.
+                
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Aphids
+                    </pestname>
+                    <p>
+                            they suck sap on leaves, stems, petioles, flowers and pods. Heavy infestation causes death of young seedlings, stunted growth and delayed flowering, especially on the older plants. They secrete honeydew as they feed which encourages the formation of sooty molds and are vectors of viral diseases, e.g.  cowpea mosaic
+                        
+                            Spray KINGCODE ELITE® 50EC 10ml/20L or PENTAGON® 50EC 10ml/20L or LEXUS® 247SC 8ml/20L
+                    
+                            Spray JAMBO CLEAN® 100ml/20L to get rid of the sooty mold.
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Bugs
+                    </pestname>
+                    <p>
+                            These are sap sucking pest. The adults and nymphs attack young and tender pods causing their shriveling and eventual rotting. Seeds set malformed and lose viability.
+                        
+                            Spray EMERALD® 200SL 10ml/20L or LOYALTY® 700WDG 5g/20L or PRESENTO® 200SP 5g/20L
+                        
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Damping of</diseasename>
+                    <p>
+                            infection causes seed rot before emergence from soil and the young seedling may die on infection, if disease is not controlled in time. This is favored by cool and wet soil conditions.
+                        
+                            Drench soil with PYRAMID®700WP 100g/20L
+                        
+                            Spray crop with GEARLOCK TURBO® 250WP 25g/20L
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>Anthracnose</diseasename>
+                    <p>
+                            this is a major disease of the cowpeas. Affected plant parts show dark brow lesions which are sunken. On pods, the lesions are covered with pinkish fungal spore mass under wet conditions. Severely infected plants die.
+                       
+                            Spray RANSOM® 600WP 15g/20L or ABSOLUTE® 375SC 10ml/20L or DUCASSE® 250EW 20ml/20L 
+                        
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname>Fertilizer</nutritionname>
+                    <p>
+                            Fertilizer application in cowpea production depends on soil fertility, and soil testing is recommended in order to determine soil nutrient levels.
+                       
+                            During planting, application of DAP, which should be thoroughly mixed with the soil before planting helps the crop with root development.  Other phosphatic fertilizers like TSP can be used. A week after germination, the young plants should be sprayed with LAVENDER SUPER STARTER® 20ml/20L or GATIT SUPER START® 50g/20L which promote early crop establishment besides other benefits. 
+                        
+                            CAN is preferred for top dressing. The crop can also be sprayed with GATIT SUPER GROWTH® 50g/20L or LAVENDER SUPER GROWTH and VEGETATIVE® 20ml/20L which promotes rapid vegetative growth. However, cowpea does not require too much nitrogen fertilizer because it fixes its own nitrogen from the air using the nodules in its roots. Application of excess nitrogenous fertilizers promotes lush vegetative growth, delays maturity, may reduce seed yield and may suppress nitrogen fixation. 
+                        
+                            As the crop begins flowering and setting pods, spraying it with GATIT SUPER FLOWERS and FRUITS® 50g/20L or DIMIPHITE® 20ml/20L or GOLDCHANCE MULTISUPER K® 50g/20L or LAVENDER SUPER FLOWERS and FRUITS® 20ml/20L promotes production of quality pods and application of VITABOR GOLD® 30ml/20l also prevents flower abortion.
+                        
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>Tips!</deficiencyname>
+                    <p>
+                            All basal fertilizers should be mixed with HUMIPOWER® at a rate of 1kg of HUMIPOWER® into 50Kg of fertilizer.  
+                        
+                            OPTIMIZER® is an organic bio-stimulant which is essential for plant growth and stress management. It can be applied at all or any growth and development phase of the crop 
+                        
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Weeds compete with the crop for nutrients, moisture, space and sunlight and also harbour pests and diseases. In order to reduce or avoid the losses attributed to weed infestation, cowpea garden should be kept weed free. Weeding should however be minimized at flowering and fruiting stage in order to prevent disturbance to the crop.
+            
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Cowpea can be harvested at different stages of maturity, i.e. leaves, green snaps, green-mature, and dry and depending on the variety and climatic conditions, cowpeas may take 60- 120days to mature their seeds.
+                
+                Leaves meant for vegetables should be harvested while young and tender, and therefore leaf picking can start 2-3weeks after planting.
+                
+                Pods can be harvested green or dry. Green pods are hand-picked while still tender, about 12-16days after flowering.
+                
+                Matured, dried pods should be harvested promptly. Delayed harvesting encourages infestation with weevils, seed shattering and in humid weather the grains may deteriorate.
+                
+                The entire plants can also be pulled especially if most of the pods are mature.
+          
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Green gram</cropname>
+        <cropid>5</cropid>
+        <category>cereals</category>
+        <botanicalname>Vigna radiatae</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>KS20 (uncle) </name>
+                <colour>
+                    pods turn brown when dry while grains are dull green in colour
+                    </colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>N26 (nylon)</name>
+                <colour>
+                    pods are black when dry and grains are shiny green in colour.
+                   
+                </colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            
+            Green gram (Vigna radiata) belonging to the Fabaceae family is an annual leguminous crop which is grown for its seeds, which are a high source of nutrients.
+            
+            The crop is easy to cultivate and can grow up to a height of 30-120cm, producing pods.
+            
+            Dried seeds are cooked or milled into flour, while the crop residues are used as fodder or in making green manure.
+            
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                green grams are relatively drought tolerant and can give reasonable yields with an annual rainfall of between 350-650mm. Too much rain or long dry spells are reduce yields. Excessive rainfall during flowering causes flower abortion while dry weather conditions are important during harvesting.
+           
+            </rainfall>
+            <soil>
+                green grams thrive in a well-drained soil, rich in nutrients and with an optimum PH of 6.0-7.5.
+           
+            </soil>
+            <temperature>
+                an optimum temperature of between 28-30 degrees centigrade is fit for the growth of green grams. Extreme temperatures affect crop growth and development.
+            
+            </temperature>
+            <altitude>
+                the crop grows best at an altitude of 0-1600M ASL.
+         
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Propagation is by seeds. These seeds should be certified or disease free. Damaged or shriveled seeds should not be planted.
+            
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                    Before planting, land should be prepared to a fine tilth.
+                
+                    Seeds are planted at a spacing of 45*15cm, a depth of about 3-5cm.
+                
+                    An acre needs 4-6kg of green gram seeds.
+                
+                    Planting should be done at the onset of the rains if production is rain fed. Delayed sowing may cause crop failure or reduced yield. 
+                
+                    Germination occurs within 5-7 days and this depend on the variety and environmental factors. 
+                
+                    Green grams can be planted alone or intercropped with other crops like maize, sorghum, cowpeas, etc.
+                 
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Cutworms
+                    </pestname>
+                    <p>
+                            these are brown or black caterpillars usually found in the soil, which cut the stem of younger plants below the soil surface. Heavy infestations can lead to total crop loss. 
+                        
+                            Dress seeds with SHIELD 600FS 3ml/kg 
+                        
+                        
+                            DRENCH soil with PROFILE 440EC 60ml/20l or PENTAGON 50EC 20ml/20l
+                        
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Aphids
+                    </pestname>
+                    <p>
+                            these are soft bodied, green or black insect pests which suck plant sap. Infested leaves curl and crinkle and attack the pods as well. Aphids excrete honeydew as they feed, which encourages the development of sooty mold. 
+                        
+                            Spray KINGCODE ELITE 50EC 10ml/20l or LEXUS 247SC 8ml/20l or PENTAGON 50EC 10ml/20l
+                        
+                       
+                            Spray JAMBO CLEAN 100ml/20l to clean the sooty mold.  
+                        
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Damping off</diseasename>
+                    <p>
+                            infection causes rotting of seeds before they emerge as well as seedlings after emergence from the soil.
+                        
+                            Drench soil with PYRAMID700WP 100g/20l or spray crop with CHANCETYL ELITE 800WDG 50g/20l 
+                        
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>Anthracnose</diseasename>
+                    <p>
+                            this attacks all the above ground parts of the crop but pods are mostly damaged, whereby they develop brown sunken lesions. These lesions are covered with pink spores under humid conditions. The seeds become brownish black. 
+                        
+                            Spray RANSOM 600WP 15g/20l or DUCASSE 250EW 20ml/20l or ABSOLUTE 375SC 10ml/20l
+                       
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname>Nutrients</nutritionname>
+                    <p>
+                        The crop should be supplied with enough nutrients for optimal production. This can be achieved through application of basal and foliar fertilizers.
+                        
+                        For instance;
+                        DAP should be applied during planting. Considering the amount of organic matter in the soil, manure can also be added.
+                        Top dressing should be done using CAN, about 4-5 weeks after germination
+                        
+                        In order to improve on nutrient uptake by the plants, stimulate growth among other benefits, the basal fertilizer and/or manure should be mixed with HUMIPOWER at the rate of 1kg Humipower into 50kg basal fertilizer or 1 ton manure. 
+                  
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>foliar feeds</deficiencyname>
+                    <p>
+                        Some of the recommended foliar feeds include the following;
+                        
+                        OPTIMIZER 10ml/20l- this helps in managing plant stress, boosting its immunity, supplying both micro and macro nutrient elements, preventing flower abortion, among other benefit. It can be sprayed at any stage of the crop development.
+                        GATIT SERIES 50g/20l – this helps in taking care of the plant while at the different stages of growth and development, which leads to increased yields.
+                        LAVENDER 20ml/20l– this is very important at early and vegetative stages of the plant growth.
+                        
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Weeds compete with the target crop for nutrients, water, space and sunlight, as well as harbouring pathogens. In order to reduce the losses attributed to weed infestation, green grams garden should be kept weed free.
+                
+                When the crop begins flowering, weeding should be minimizes in order to prevent disturbances.
+                
+                Before planting the crop, spraying weeds with CLAMPDOWN 480SL 200ml/20l reduces weed development greatly throughout the growing season.
+                
+                NOTE; whenever doing any foliar spray, the product (insecticide, fungicide, foliar feed or herbicide) should be mixed with INTEGRA 3ml/20l. This is a sticker, spreader and penetrant, which improves the effectiveness of the product.
+         
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Green grams mature within 60-90 days after sowing, depending on environmental factors as well as the variety.
+                
+                Harvesting should be done when most of the pods have turned black. This is achieved through picking the individual pods or uprooting the entire plant.
+                
+                Delayed harvesting results into shattering of the pods and other losses can occur, e.g. infestation by pests.
+                
+                The harvested pods should be dried for about 2-3 days then threshed and winnowed, ready for consumption or storage.
+                
+                Green grams are very susceptible to attack by brucchids and should therefore be stored soon after sun drying in airtight containers or gunny bags in a clean ventilated room. Seed treatment is recommended for a longer storage period.
+          
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Citrus plants</cropname>
+        <cropid>6</cropid>
+        <category>fruits</category>
+        <botanicalname>Citrus spp.</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Green</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Oranges</name>
+                <colour>Orange</colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Grapefruits</name>
+                <colour>Green</colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Mandarins</name>
+                <colour>Orange</colour>
+            </variety>
+        </varieties>
+        <cropabout>
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                Well-distributed annual rainfall of not less than 1000 mm is needed for fair crop. In most cases, due to dry spells, irrigation is necessary. Under rain-fed conditions, flowering is seasonal.
+           
+            </rainfall>
+            <soil>
+                Depending on the scion/ rootstock combination, citrus trees grow on a wide range of soils varying from sandy soils to those high in clay. Soils that are good for growing are well-drained, medium-textured, deep and fertile. Waterlogged or saline soils are not suitable and a pH range of 5.5 to 6.0 is ideal. In acidic soil, citrus roots do not grow well, and may lead to copper toxicity. On the other hand at pH above 6, fixation of trace elements take place (especially zinc and iron) and trees develop deficiency symptoms. A low pH may be corrected by adding dolomitic lime (containing both calcium and magnesium)
+           
+            </soil>
+            <temperature>
+                a temperature range from 2deg to 30deg C is ideal. Long periods below 0deg C are injurious to the trees and at 13deg C growth diminishes. However, individual species and varieties decrease in susceptibility to low temperatures in the following sequence: grapefruit, sweet orange, mandarin, lemon/lime and trifoliate orange as most hardy.Temperature plays an important role in the production of high quality fruit. Typical colouring of fruit takes place if night temperatures are about 14deg C coupled with low humidity during ripening time. Exposure to strong winds and temperatures above 38deg C may cause fruit drop, scarring and scorching of fruits. In the tropics the high lands provide the best night weather for orange colour and flavour.
+           
+            </temperature>
+            <altitude>
+                Citrus is grown from sea level up to an altitude of 2100 m
+            
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Propagation
+            
+            The most common method of citrus propagation is by budding. When old trees are top-worked, bark grafting is used. Citrus varieties grown from seed have numerous problems like late bearing, uneven performance due to their genetic variability and susceptibility to drought, root invading fungi, nematodes and salinity. Rootstocks are therefore used to meet all citrus requirements (tolerance / resistance to pests and diseases, suitability to soil and water conditions, as well as compatibility with scion variety selected). Rootstocks also improve the vigour and fruiting ability of the tree, as well as the quality, size, colour, flavour and rind-thickness of the fruit.
+            
+            Citrus rootstocks have the following characteristics: 
+            Rough lemon (C. jambhiri) Seedlings produce a uniform and fast growing rootstock, which is easy to handle in the nursery. The plant develops a shallow but wide root system with a vigorous taproot. Trees budded on rough lemon produce an early, good yield but the fruit quality especially during the first years is not satisfactory. Trees are comparatively short-lived. Rough lemon prefers deep, light soil and do not tolerate poor drainage or waterlogging. It is tolerant to citrus tristeza virus but susceptible to Phytophthora spp., citrus nematodes and soil salinity. It is drought tolerant. Rough lemon can be budded with oranges, mandarins, lemons, limes and grapefruits. It is the most commonly used rootstock in East Africa.
+            Cleopatra mandarin (C. reticulate)It is suited to soils of heavier texture. On this rootstock, trees are slow growing with low yields in early years. Trees are long-lived. Its influence on fruit quality is good. It is tolerant to soil salinity. It is susceptible to poor drainage, Phytophthora spp. and citrus nematodes. It can be budded with oranges, mandarins and grapefruits.
+            Citrus trifoliate (Poncirus trifoliate)It is a dwarfing stock and is most suitable for heavy and less well-drained soils. Rootstock propagation is slow, but budded trees yield heavily and produce high quality fruits. The plants develop abundant roots and often several taproots, which penetrate the soil deeply. It should not be used in calcareous soils. It is tolerant to Phytophthora spp. and citrus nematodes. It can be budded with oranges, mandarins and grapefruits.
+            Carrizo / Troyer citrange (P. trifoliate x C. sinensis)Rootstocks are somehow difficult to establish. In order to promote fibre roots, young plants should be undercut as long as they are in the seedbed. Citranges are not suitable for very light and strongly alkaline soils. They are sensitive to overwatering but once established produce high quality fruits. They are somehow tolerant to Phytophthora spp. and citrus tristeza virus but susceptible to Exocortis viroid and citrus nematodes. They can be budded with oranges, mandarins and grapefruits.
+            Citrumelo (P. trifoliate x C. paradise)Plants produce an expansive root system and therefore have good drought tolerance. They can be used on a wide range of soils and produce an outstanding quality of fruit. They are tolerant to Phytophthora spp. but susceptible to citrus nematodes. They can be budded .oranges, tangarines and grapefruit.
+            Rangpur lime(C. aurantifolia)This stock is suitable for various soil types, including deep sand. It prefers warm locations. It produces vigorous, well-bearing trees with a high degree of drought resistance. It is susceptible to Phytophthora spp. and citrus nematodes. It can be budded with oranges and grapefruits.
+            Sweet orange (C. sinensis)This rootstock produces large and vigorous trees and is suitable for light to medium soils, which are well drained. It produces good quality fruits and the trees are long-lived. It has low drought tolerance and is very susceptible to Phytophthora spp. and citrus nematodes. It can be budded with oranges, mandarins and grapefruits.
+            Sour orange (C. aurantium)An excellent rootstock in locations where citrus tristeza virus is not a problem since it is very susceptible to the disease. It is tolerant to poor drainage. It has low tolerance to drought. It produces very good quality fruits. It is tolerant to Phytophthora spp. but susceptible to citrus nematodes. It can be buddedwith oranges and grapefruits.
+           
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                Select seeds from healthy mother trees for rootstocks
+                Hot water treat seeds at 50deg C for 10 minutes
+                Seeds perform better when planted soon after they are extracted
+                Sow seeds in seedbeds or polybags (18 x 23 cm). Seeds germinate in 2 to 3 weeks
+                Water the seeds regularly, preferably twice a day until they germinate
+                Seedlings are normally ready for budding when reaching pencil thickness or 6 to 8 months after germination.
+                T-budding is the most common method.
+                Do budding during warm months. Avoid budding during cold periods and during dry conditions
+                Budded plants are ready for transplanting 4 to 6 months after budding
+                Alternatively, obtain budded plants from a registered fruit nursery. These budded plants should be ready for transplanting in the field.
+                
+            </p>
+            <p>
+                Transplanting in the field.
+                Transplant in the field at onset of rains.
+                Clear the field and dig planting holes 60 x 60 x 60 cm well before the onset of rains.
+                At transplanting use well-rotted manure with topsoil.
+                Spacing varies widely, depending on elevation, rootstock and variety. Generally, trees need a wider spacing at sea level than those transplanted at higher altitudes. Usually the plant density varies from 150 to 500 trees per ha, which means distances of 4 x 5 m (limes and lemons), 5 x 6 m (oranges, grapefruits and mandarins) or 7 x 8 m (oranges, grapefruits and mandarins). In some countries citrus is planted in hedge rows.
+                It is very important to ensure that seedlings are not transplanted too deep.
+                After transplanting, the seedlings ought to be at the same height or preferably, somewhat higher than in the nursery.
+                Under no circumstances must the graft union ever be in contact with the soil or with mulching material if used.
+                
+            </p>
+            <p>
+                Tree management / maintenance
+                
+                Keep the trees free of weeds.
+                Maintain a single stem up to a height of 80-100 cm.
+                Remove all side branches / rootstock suckers.
+                Pinch or break the top branch at a height of 100 cm to encourage side branching.
+                Allow 3-4 scaffold branches to form the framework of the tree.
+                Remove side branches including those growing inwards.
+                Ensure all diseased and dead branches are removed regularly.
+                Careful use of hand tools is necessary in order to avoid injuring tree trunks and roots. Such injuries may become entry points for diseases.
+                As a general rule, if dry spells last longer than 3 months, irrigation is necessary to maintain high yields and fruit quality. Irrigation could be done with buckets or a hose pipe but installation of some kind of irrigation system would be ideal.
+                Citrus is under irrigation in the major citrus world producing countries.
+                
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Scales
+                    </pestname>
+                    <p>
+                        Scales are small insects (1.0 to 7 mm long), which resemble shells glued to the plant. There are many species (types) of scales on citrus, which vary in shape (round to oval) and colour according to the species.
+                        
+                        
+                        
+                        There are two main groups: hard (armoured) and soft (naked). The armoured scales are the most serious pests.
+                        
+                        The most important armoured scales attacking citrus are the red scale (Aonidiella aurantii), the mussel purple scale (Lepidosaphes beckii), and the circular scale (Chrysomphalus aonidum).
+                        
+                        The most important soft scales are the soft brown scale (Coccus hesperidum) and the soft green scale (Coccus viridiis or C. alpinus).
+                        
+                        
+                        
+                        Female scales have neither wings nor legs. Females lay eggs under their scale. Some species give birth to young scales directly. Once hatched, the tiny scales, known as crawlers, emerge from under the protective scale. They move in search of a feeding site and do not move afterwards. They suck sap on all plant parts above the ground. Their feeding may cause yellowing of leaves followed by leaf drop, poor growth, dieback of branches, fruit drop, and blemishes on fruits. Leaves may dry when heavily infested, and young trees may die.
+                        
+                        
+                        
+                        Soft scales excrete honeydew, causing growth of sooty mould. In heavy infestations fruits and leaves are heavily coated with sooty mould turning black. Heavy coating with sooty mould reduces photosynthesis. Fruits contaminated with sooty mould loose market value. Ants are usually associated with soft scales. They feed on the honeydew excreted by soft scales, preventing a build-up in sooty moulds, but also protecting the scales from natural enemies.
+                        
+                        Armoured scales do not excrete honeydew.
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        The citrus rust mite (Phyllocoptruta oleivora)
+                    </pestname>
+                    <p>
+                        The yellow tiny citrus rust mite attacks mainly the fruit. Its feeding causes the rind of the fruit to turn silvery, reddish brown, or blackish. One result of mite damage is small fruit, which deteriorates rapidly. This damage lowers the market value of the fruit. Heavy populations of the rust mite cause bronzing of leaves and green twigs, and general loss of vitality of the whole tree. Warm and humid conditions favour the development of rust mite.
+                  
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Citrus bud mite 
+                    </pestname>
+                    <p>
+                        It is a tiny, worm-shaped, creamy white mite. It has only two pair of legs, and is hardly visibly without a magnifying glass. These mites occur in protected places such as under the bracts of buds. They attack the growing points of the twigs, causing malformation of the young leaves and flower buds. As a consequence, the growth of the trees is retarded.
+                        
+                        The fruit set can be seriously reduced and infested fruit may be malformed. Bud mites are more abundant during the hot season. Commonly found in developing and leaf buds. Damage under the bracts causes the death of the buds. Flower bud development is reduced, growth is retarded, branches become stunted and deformed, and rosette-shaped leaves are formed. The fruits, particularly in lemons are deformed. Almost all deformed fruits fall off at an early stage of development. Even light infestations may cause damage and control measures should be applied on time and regularly. Spots decrease the market value of the fruit and provide entry for fungal infection.
+                        
+                        Damage fruits loose moisture rapidly and do not keep well. Infestation on ripe fruits causes light yellow or silver discolouration. These mites attack all citrus species, but damage is usually worst in lemons. Damaged fruit could drop prematurely or assume abnormal shapes. The juice content of damaged fruit is significantly lower than that of normal fruit.
+                   
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>The citrus nematode (T. semipenetrans)</diseasename>
+                    <p>
+                        
+                        It causes a slow decline of citrus trees. Affected trees show reduced vigour, small yellow leaves, defoliation, die-back of twigs, and small fruits. The citrus nematodes are ectoparasitic and sedentary. Only females are parasitic on roots. They are found on the surface of fibrous roots under debris-covered egg masses embedded in a gelatinous matrix. The life cycle, from egg to egg, is completed within 6-8 weeks at temperatures of 24-26degC. Optimal reproduction occurs at 28-31degC. Soil salinity increases the population density of citrus nematode. In affected orchards, populations of the nematode are concentrated in upper soil layers. Movement of plant material and soil is responsible for the spread of the nematode. Also agricultural implements and water (irrigation or rain) spread the nematode in a citrus orchard.
+                  
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>The burrowing nematode (Radopholus similis)</diseasename>
+                    <p>
+                        It is called "burrowing nematode" on account of the cavities and tunnels it produces in the root tissues. Symptoms are generally present on groups of trees that increase in number with time, hence, the name, spreading decline. Symptoms are much more severe than in the case of T. semipenetrans and the spread is much quicker. Affected trees show fewer and smaller leaves and an abundance of dead twigs and branches. Trees wilt during periods of lack of moisture but generally the trees are not killed. It is an endoparasitic and migratory. Two distinct races of the nematode are known: the banana and citrus race. The former is known to attack banana roots but not citrus. The citrus race attacks bananas and citrus. The life cycle requires 18-21 days at 24-26degC, the optimum temperature being 24degC. Burrowing nematodes migrate through roots and from root to root to feed. The nematodes are rarely found in the top 10 cm of the soil, highest populations being between 30 and 180 cm. Primary spread is thorough propagating infested seedlings.
+                  
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p>
+                        For normal growth development (high yield and quality fruits), citrus trees require a sufficient supply of fertiliser and manuring. No general recommendation regarding the amounts of nutrients can be given because this depends on the fertility of the specific soil. Professional, combined soil and leaf analyses would provide right information on nutrient requirements.In most cases tropical soils are low in organic matter.
+                        
+                        To improve them at least 20 kg (1 bucket) of well-rotted cattle manure or compost should be applied per tree per year as well as a handful of rockphosphate. On acid soils 1-2 kg of agricultural lime can be applied per tree spread evenly over the soil covering the root system. Application of manure or compost makes (especially grape-) fruits sweeter (farmer experience).
+                        
+                        Nitrogen can be supplied by intercropping citrus trees with legume crops such as mucuna, cowpeas, clover or dolichos beans, and incorporating the plant material into the soil once a year. Mature trees need much more compost/well rotted manure than young trees to cater for more production of fruit.Conventional fertilisation depend on soil types, so it is recommended to consult the local agricultural office.
+                    
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname>Nitrogen deficiency</deficiencyname>
+                    <p>
+                            Leaves
+                            Pale yellow to old ivory<br/>
+                        
+                            Fruit
+                            Reduced crop<br />
+                       
+                            Tree growth
+                            Reduced.<br />
+                            
+                            May produce abundant bloom.Flower buds may fall without opening<br />
+                        
+                    </p>
+                </deficiency>
+                <deficiency>
+                    <deficiencyname>Phosphorous deficiency</deficiencyname>
+                    <p>
+                        Leaves
+                        Small, dull
+                
+                    
+                        Fruit
+                        Reduced crop. Large.Puffy, bumpy surface,enlarged core cavity and thick rind.
+                   
+                  
+                        Tree growth
+                        Reduced.
+                    </p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Harvest fruits when they are mature. Mature fruits change colour where night temperature is about 14degC coupled with low humidity
+                In low altitude areas where fruits remain green, it is necessary to test a few fruits for maturity
+                Harvest fruits using a sharp knife, taking care not to bruise the fruits
+                Fruits can also be plucked. However, plucking causes the stem to break close to the fruit thus increasing the chance of it being infected
+                Wash, sort and grade fruits under shade. Washing water must be clean or treated
+                Discard deformed and infected fruits
+                Pack fruits in aerated containers for transport to the market
+                
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Harvest fruits when they are mature. Mature fruits change colour where night temperature is about 14degC coupled with low humidity
+                In low altitude areas where fruits remain green, it is necessary to test a few fruits for maturity
+                Harvest fruits using a sharp knife, taking care not to bruise the fruits
+                Fruits can also be plucked. However, plucking causes the stem to break close to the fruit thus increasing the chance of it being infected
+                Wash, sort and grade fruits under shade. Washing water must be clean or treated
+                Discard deformed and infected fruits
+                Pack fruits in aerated containers for transport to the market
+                
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Bananas</cropname>
+        <cropid>7</cropid>
+        <category>fruits</category>
+        <botanicalname>Musa spp.</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Cavendish</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Lady Fingers</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Valery</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Williams Hybrid bananas</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            Bananas are perennial tropical plants whose fruits are used both for cooking (plantains) and as table fruits. They may also be processed into starch, chips, puree, beer (in Africa), vinegar, or may be dehydrated and sold as dried fruit. Flour is produced from both plantains and table bananas, which can then be used in soups, baking or as a drink. 
+            
+            The flowers can be used as a vegetable, but they have to be heated briefly in salty water to remove the bitterness. The fresh leaves have a high content of protein and cattle and chicken like them because of their taste. The leaves are also used as packing material and for roofing. Together with the stem (pseudo-stem) it also offers an excellent mulching material. Bananas can also be planted as a windbreak to a vegetable garden.
+            
+            Bananas are a staple food in many of the lower altitude, wetter areas of East Africa. They are mostly grown as a subsistence crop, although there is much internal and regional trading.
+          
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                For survival a rainfall of at least 1000 mm per year is necessary, but in order to achieve good yields bananas should receive 200-220 mm water per month as a regular supply. For most commercial banana growers this means irrigating during the dry months. Commercially used varieties cannot endure stagnant water conditions, so flood irrigation should only be used if the soil has good drainage.
+          
+            </rainfall>
+            <soil>
+                The best soil for bananas is a deep, friable loam with good drainage and aeration. High fertility is a great advantage and organic matter content should be 3% or more. Bananas, therefore respond well to application of well decomposed good quality composts. The plants tolerate pH of 4.5-7.5 and optimum pH is between 6 and 7.5. Plantains require more fertile soils than table bananas. Agricultural lime or preferably dolomitic lime (Ca + Mg content) can be added to soils that are very acidic in order to make them less acidic and better suited for banana production. 
+            
+            </soil>
+            <temperature>
+                Temperature is a major factor; the optimum for growth is about 27degC and the maximum 38degC. Plant growth is retarded and chilling injury occurs below 13degC.
+            
+            </temperature>
+            <altitude>
+                Bananas grow well in fairly hot and humid areas that is within an altitude of 0-1800 m above sea level with the exception of "Dwarf Cavendish" which can grow well up to 2100 m.a.s.l. (metres above sea level). 
+            
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Bananas are propagated by vegetative means. There are several types of vegetative planting material. Selection is done according to availability, required amounts and transport possibilities. Smallholders propagate banana mostly by corms / rhizomes (the bottom part of the plant that remains underground and bears several buds which develop into suckers) and suckers. Corms / rhizomes can be used as a whole or in pieces each bearing one or more buds. Using whole corms is laborious, requires a large amount of starting - planting material and involve high transport costs. Using corm pieces is less expensive. 
+            
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                Suckers are produced profusely at the base of each plant. Very young suckers just appearing above the ground, known as peepers, are easy to transport, but will produce first yield after 2 years. Sword suckers, about 75 cm high with corm diameter of about 15 cm, have a well-developed base with narrow sword-shaped leaves. They will produce the first yield about 18 months after planting. Maiden suckers are tall suckers normally 5-8 months, which have not yet set a bunch. They will produce a bunch in the first year. Water suckers, which have broad leaves should not be used for propagation since do not produce healthy banana clumps and the survival rate after planting is low. 
+                
+                Banana plants are also propagated through tissue culture (TC). Normally disease and pest free plantlets are multiplied under controlled conditions. Plantlets are grown in pots and are planted in the field after hardening them off. These tissue culture bananas yield considerably higher than traditionally propagated bananas when planted in clean soil that has not been previously used for banana production in the recent past. They are commercially available in Kenya from both Kenya Agricultural Research Centre, Thika, Jomo Kenyatta University of Agriculture and Technology, Juja and several private companies. The TC banana plants should be minimum 200-300 mm high at planting and have at least 5 healthy dark leaves and wider internodes at time of transplanting.
+                
+                Planting material should be selected from healthy plants, free of diseases and pests (e.g. bunchy top virus, nematodes and banana weevils), having all the desirable bunch qualities and high yielding ability. It is very important that the planting material is undamaged. Prior to planting, the roots and any damaged part of the rhizome should be removed with a sharp knife. Rhizomes or suckers showing symptoms of disease or pest attack (in particular nematodes or banana weevils) must be discarded. 
+                
+                Planting holes should be at least 0.6 m deep and 0.6 m in diameter and should be filled with topsoil mixed with organic manure. In areas with marginal rainfall larger holes of about 1.5 m in diameter and 1 m are recommended. 
+                
+                The spacing depends on variety, soil conditions and type of planting system. Short varieties, such as the 'Dwarf Cavendish', can be planted in a density of 2500 plants/ha, but more commonly in holes with spacing of 3 m x 3 m. The taller varieties 'Giant Cavendish', 'Robusta' or other strongly developing varieties are set at 600 - 1200 plants/ha or in planting holes spaced at 3 m x 4 m. Experiences in the different regions have led to various recommendations regarding size and depth of hole required, which should be followed. It is recommended to cover the planted rhizome with mulch. 
+                
+                The most suitable planting period is towards the end of the dry season, or at the beginning of the rainy season. 
+          
+                Intercropping
+                
+                Bananas can be combined with practically any type of cultivated or wild plant, which has similar requirements. Young banana plants are excellent nurses for other crops and forest plants (cocoa, coffee, black pepper etc.), which can be planted very close to the bananas. During the first year bananas should be intercropped with shallow rooted crops for ease of weeding. Following illustrations show 3 examples how to intercrop bananas: 
+                
+            
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Burrowing nematode (Radopholus similis)
+                    </pestname>
+                    <p>
+                        The burrowing nematode is the most destructive nematode species attacking bananas. Dark patches or spots on the roots indicate nematode infestation. Severely infected plants may show only stubs of rotted roots and may fall down when the bunch has formed. Bananas are also attacked by other nematode species such as Pratylenchus spp., Helicotylencus spp. and Meloidogyne spp.
+                    
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Banana weevil borer (Cosmopolites sordidus)
+                    </pestname>
+                    <p>
+                        The banana weevil is the most important insect pest of banana. It is about 1-1.5 cm long. The larva (grub) is most destructive: It bores irregular tunnels in the rhizome/corm and pseudostems at ground level. A large proportion of the tissue is destroyed, this reduces the amount of water and nutrients the plants can take up as well as lessening their anchorage. Heavy infestation may kill young plants. Older plants are easily blown over by the wind
+                  
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Bacterial wilt</diseasename>
+                    <p>
+                        Initially one of the youngest three leaves turns pale-green or yellow in colour and breaks down at the petiole and the pseudostem. Later all the other leaves collapse around the pseudostem. An infected finger or fruit shows dry and rotted pulp that is coloured brown or black, and the presence of bacterial discharges.</p>
+                
+                </disease>
+                <disease>
+                    <diseasename>Bunchy top disease</diseasename>
+                    <p>
+                        It is a virus disease transmitted by aphids (for more information on aphids click here. The typical symptoms of bunchy top of banana are very distinctive and readily distinguished from those caused by other viruses of banana. Plants can become infected at any stage of growth and there are some initial differences between the symptoms produced in aphid-infected plants and those grown from infected planting material.
+                        
+                        In aphid-infected plants, a few dark-green streaks or dots usually appear on the minor veins and the midrib of the second leaf to emerge after inoculation. They are best seen from the underside of the leaf in transmitted light. The 'dot-dash' symptoms can sometimes also be seen on the petiole. The following leaf may display whitish streaks along the secondary veins when it is still rolled. These streaks become dark green as the leaf unfurls. Successive leaves become smaller, both in length and in width of the lamina, and often have chlorotic, upturned margins. The leaves become dry and brittle and stand more erect than normal giving the plant a rosetted 'bunchy top' appearance.
+                        
+                        Suckers from an infected stool can show severe symptoms in the first leaf to emerge. The leaves are rosetted and small with very chlorotic margins that tend to turn necrotic. Dark-green streaks are usually evident in the leaves.
+                        
+                        Infected plants rarely produce a fruit bunch after infection and do not fruit in subsequent years. Plants infected late in the growing cycle may fruit once, but the bunch stalk and the fruit will be small and distorted. On plants infected very late, the only symptoms present may be a few dark green streaks on the tips of the flower bracts.
+                    
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p></p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname></deficiencyname>
+                    <p></p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Husbandry
+                
+                Around 4-6 weeks after the bananas and additional crops have been planted, a primary selective weeding should be done. Frequent shallow weeding is required until the plants shade out weeds. Weeds are controlled by mechanical means (slashing, hoeing, etc.) or by hand. Grasses should be pulled up, and replaced by other non-creeping plants, for instance jack beans (Canavalis ensiformis) and Crotalaria spp. 
+                
+                Surplus shoots need to be regularly cut away from the planted bananas. The number of plants to leave per stool depends on the farmer's preferences. Many plants on a stool will result in a large number of small bunches per stool. Fewer suckers per stool will result in less but bigger bunches than are readily marketable. A common practice is to allow 1 flowering or fruiting stem and 2 to 3 suckers of different size for continuous banana production. 
+          
+                
+                Tissue culture bananas produce large numbers of suckers 1-2 months after planting. These suckers should be cut off at the ground level to allow the development of the mother plant or until the mother plant reaches 1 m in height, at which time 1 following sucker is selected to continue. For good yields it is extremely important to follow the correct sucker selection: 
+                a) Selection should be done when the mother plant is 1 m tall.
+                b) When the mother plant is 1 m tall 3 vigorous sword suckers facing eastward up to the slope (on sloppy land) should be selected. All other suckers should be cut at base, gorged out in the middle and growing point destroyed. After 1-2 months, the most vigorous sucker should be selected and the rest removed. This will be the first ratoon crop and the first sucker. The first sucker that is produced by the first ratoon sucker should be selected as the second ratoon crop. If the sucker selection is properly done, a large daughter sucker and a small grand daughter, a peeper all aligned in one direction will be seen. 
+          
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Harvesting banana bunches is usually spread evenly throughout the whole year. Whilst still green, the fruits have a distinctly edged appearance, which gradually becomes almost round as they ripen. The stage of maturity is judged by the angularity of the fingers: The more rounded a finger is in a cross-section, the more mature it is. The fingers are considered mature for harvesting when they are 3/4 round (75% maturity) and still green. 
+                
+                The fruits in a bunch do not ripen at the same pace. If some fruits have begun to turn yellow on the plant, then it is already too late to transport them any great distance, as they quickly become too soft and rot. 
+                Bunches are harvested by cutting them away from the plant just above where the fruit begins. The stem is cut-off with a clean cut at ground level after harvesting the bunch. It is very important that bunches do not fall or bump during transport, as this causes them to blacken and rot. To avoid damaging the bunches during harvesting at least 2 people should be involved in harvesting, in particular heavy bunches or tall varieties, one to do the cutting and the other one to support the bunch so that it does not fall to the ground. An experienced worker, however, can harvest alone. 
+                
+                Harvested bunches should be kept in the shade. It is advisable to handle and transport banana hands rather than the whole bunches because this reduces physical damage. Bunches are dehanded and the hands are deflowered, washed, sorted and packed in carton boxes.
+                
+                Storage life of matured green bananas ranges from 21 to 30 days at 13-15degC. 
+                
+                Ripening is increased when bunches are packed in closed chambers with restricted air circulation. 
+           
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Peas</cropname>
+        <cropid>8</cropid>
+        <category>vagetable</category>
+        <botanicalname>Pisum sativum
+        </botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Green Feast</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Earlicrop</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name> Onward</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Alderman</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            
+            Peas are cultivated for the fresh green seeds, tender green pods, dried seeds and foliage. Dry seeds are used for food and feed. For food, they are cooked whole, split or ground into flour, and boiled or roasted. Large amounts are canned. Fresh peas are canned or frozen in the immature form. They are a major vegetable and commercial crop. Some cultivars are grown for their tender green pods such as snap peas (sugar snaps) and snow peas (sweet peas) mainly for export. The crop is also suitable as forage, hay, silage and green manure. Kenya export of garden peas in 2005 amounted to 2,206 tons at a value of KSh 729 million, and of snow peas 1,739 tons at a value of KSh 448 million. Total area of garden peas in 2005 was 5,313 hectares and for snow peas 1,550 hectares for both local and export market.
+         
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                A minimum of 400 to 500 mm rainfall per cropping season (about three months) is required for growing peas without supplementary irrigation In tropical regions, the crop has to be grown above an altitude of 750 m
+            
+            </rainfall>
+            <soil>
+                Peas can grow on a wide range of soils but thrive best on a well-drained soil with an optimum pH of 6 to 7.7 and a high content of soil organic matter. Time of sowing and place in the crop rotation depend on regional climate, variety and purpose of growing, whether for export or for local use. Dry peas are primarily grown as a break or catch crop in cereal rotations. 
+            
+            </soil>
+            <temperature>
+                They grow reasonably well between 10 and 30degC with an optimum of 20degC. Temperatures above 30degC will cause poor pollination, early maturity and lower yields
+           
+            </temperature>
+            <altitude>
+                The crop has to be grown above an altitude of 750 m
+           
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            propagation by seeds
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                Peas are sown directly on well prepared moist soils. The seeds should be planted at a depth of 2.5 cm if the soils are deep. In dry, light soils the seeds should be planted about 4 cm deep. Peas need warm soil to grow and good spacing for adequate sunlight. The seeds should be sown in double rows of 10 x 50 to 60 cm. If staked, this is done between the double rows using twigs or short-staked wires and/or strings. 
+                
+                In soils with low organic matter, up to 2 0 tons/ha of manure or compost should be applied before planting, as well as up to 200 kg/ha of rock phosphate. Being a legume, peas are not responsive to nitrogen fertiliser, however it is recommended to inoculate the seeds with rhizobium (any of a genus (Rhizobium) of nitrogen-fixing bacteria found in nodules on the roots of certain leguminous plants) to encourage the plants to fix enough nitrogen from the atmosphere. Inoculating with rhizobium has been shown to increase yields by up to 100%. Mix crop residues and organic matter in the top 20 cm of the soil prior to planting. This destroys current weed growth and provides a granular bed for seeding.   
+           
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Cutworms
+                    </pestname>
+                    <p>
+                        Cutworms are the caterpillars of some moths. They cut-off seedlings at ground level, usually at night. They also feed on roots and leaves. They hide in the soil during the day.
+                  
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        African bollworm (Helicoverpa armiguera) and other caterpillars
+                    </pestname>
+                    <p>
+                        Various species of caterpillars feed on leaves and pods of peas. The most common are the African bollworm (Helicoverpa armiguera), the beet armyworm (Spodotera exigua) and hairy caterpillars (Arctiidae).
+                    
+                        Caterpillars bore holes and feed on leaves, flower buds and maturing pods eating the seeds. They also attack young pods eating the pod wall and the developing seeds 
+                   
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Powdery mildew (Erysiphe polygoni)</diseasename>
+                    <p>
+                        It is characterised by a white powdery growth on the leaves, stems and pods. The initial symptoms consist of tiny slightly discoloured spots on the upper surface of leaves. Theses spots enlarge and become covered with powdery fungal growth. The tissue beneath affected areas may turn purple and later brown. If infection is severe, affected plants turn brown and die. Affected seeds become brown. Water stress accelerates mildew development. Warm days and cool nights favour disease development. The fungus is seed-borne.
+                  
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>Downy mildew (Peronospora pisi)</diseasename>
+                    <p>
+                        The fungal growth over leaf and pod is the most striking symptom. The fungal growth occurs on the lower leaf surface as well as on pods. Initially it is white but later it changes to a shade of violet and eventually to almost black. The disease may appear on pods even when it is not apparent on leaves. Affected pods show yellowish brown areas. Inside of the affected pods a white fungal growth can be seen. Peas in such pods are small and have brown spots. The disease is favoured by cool and moist conditions.
+                   
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p></p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname></deficiencyname>
+                    <p></p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Husbandry
+         
+                The first key need of peas is moisture. They have to be irrigated when conditions become dry. Also weed control is very essential at an early stage to reduce competition for nutrients. However, peas develop rapidly and the need for weeding is reduced when fully grown. Shallow cultivation is recommended to avoid root damage. 
+                A suitable crop rotation program involving grains, potatoes and brassicas should be used. For good quality fresh market peas staking is recommended.  
+           
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Green peas are ready for harvesting 8 to 12 weeks after planting. The time to harvest is determined by the appearance of the pods. For garden peas this means pods should be well filled but still smooth and green. Pod peas are harvested when pods have reached full size but before development of seeds. As the pods mature the sugar content decreases and market appeal is lost. The harvesting period may last 4 to 6 weeks. Yields vary from 1.5 tons to over 5 tons of shelled peas per hectare, with average yields of 2.5 to 3.5 tons per hectare. For the fresh market, yields of peas in pods vary from 3 tons to 10 tons per hectare, or an average of 5 or 6 tons of pods per hectare. Edible pod peas will normally yield 3 to 5 tons of pods per hectare. For fresh market whether local or export, the harvested pods are sorted and packed. Washing is not desirable as it may bruise the pods; so soiled pods are discarded during sorting along with malformed or diseased pods. Rejected peas are excellent animal feed. 
+                For dry peas the whole plant can be uprooted when about 80% of pods have turned brown and dry. The haulm is then either left in the field or carried to a threshing place to dry completely, after which the peas are threshed and winnowed.
+                
+            </p>
+        </maturityandharvesting>
+    </crop>
+    <crop>
+        <cropname>Onion</cropname>
+        <cropid>9</cropid>
+        <category>vegetable</category>
+        <botanicalname>Allium cepa</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid>1</varietyid>
+                <name>Red Creole</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>2</varietyid>
+                <name>Red Tropicana</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>3</varietyid>
+                <name>Red Tropicana F1 Hybrid</name>
+                <colour></colour>
+            </variety>
+            <variety>
+                <varietyid>4</varietyid>
+                <name>Bombay Red'</name>
+                <colour></colour>
+            </variety>
+        </varieties>
+        <cropabout>
+            
+            Onion is a biennial vegetable grown in temperate zones as an annual. In the tropics the varieties that do well are in effect annuals as they can produce seed within the first year of growing. Nutrient-wise 100 g of onion provides about 30 g calcium, 0.5 mg of iron, vitamin B, 0.2 mg of riboflavin, 0.3 mg nicotinamide, and 10 mg ascorbic acid (vitamin C).
+            
+            In general, onions are used for salads (bunching onion or sliced full-grown bulbs), pickling (e.g. silver skin onions), cooking (such as in soups) and frying (for example, with meat). Onions are particularly suited to smallholder farming in most countries. It also plays an important role in traditional medicine (e.g. as a diuretic). In the tropics onions can be grown year round where irrigation is possible. 
+          
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall>
+                It requires about 70% relative humidity for good growth. It can grow well in places where the average annual rainfall is 650-750 mm with good distribution during the monsoon period. Areas with low (than 650 mm)  or heavy rainfall (>750 mm) are not particularly suitable for rain-fed crop.
+           
+            </rainfall>
+            <soil>
+                Onions can be grown on any fertile, well-drained, non-crusting soil. The optimum pH range is 6.0 to 6.8, although alkaline soils are also suitable. Onions do not grow well in soils below pH 6.0. On light sandy soils irrigation is necessary. Irrigation could be either overhead or on drip. Onions at the bulbing stage need a substantial amount of water, but excessive moisture must be avoided during the growing season. Avoid application of fresh manure to the crop, as this will cause the plants to develop thick necks and too much leaf at the expense of bulb formation. 
+           
+            </soil>
+            <temperature>
+                In temperate zones onion is cool-season biennial, and is tolerant to frost. They produce bulbs with growing day lengths. Optimum temperatures for plant development are between 13 and 24degC, although the range for seedling growth is narrow, between 20 and 25degC. High temperatures favour bulbing and curing. In the tropics only short day or day neutral onion varieties will form bulbs. These thrive in warm to hot climates of 15-30degC. If the temperature greatly exceeds that required for bulbing, maturity is hastened and bulbs do not grow to maximum size, consequently lowering the yields. 
+           
+            </temperature>
+            <altitude>
+                the crop can do well up to an altitude of 2500M ASL.
+            
+            </altitude>
+        </ecologicalrequirements>
+        <propagation>
+            Propagation is majorly by seeds, which are first raised in a seedbed
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                    Prior to planting, soils should be ploughed and disked sufficiently to eliminate debris and soil clods. In most commercial areas, beds 0.9 to 1.0 m wide are common, and 2 to 6 rows are seeded or planted on the bed. If two rows, they may be two-line (twin) rows with plants staggered to achieve proper spacing and high population density. 
+                    
+                    Proper seed selection is recommended to minimise problems of splits and doubles. Over-fertilisation, uneven watering, and temperature fluctuations also influence bulb formation. Onion is propagated by seed (most common in the tropics) or sets (immature bulbs ripened during the previous season - in temperate zones). 
+                
+                    In the tropics the seed is usually sown in a nursery under a mulch cover. In the nursery prepare raised beds maximum 1 m wide and incorporate plenty of well-decomposed compost as well as additional rock phosphate. Make rows about 15 cm apart, sow the seeds and cover lightly with soil and mulch. Irrigate liberally for the first 10 days. Seed rate is 2-3 kg per ha. After the seed emerges, the mulch is removed. About 6-8 weeks after sowing, when the seedling has a base as thick as a pencil and is approximately 15 cm tall, the seedlings are transplanted to the field. 
+                    
+                    The ultimate yield of onion is determined by the number of leaves that are formed prior to bulbing. 
+                 
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        Onion thrips (Thrips tabaci)
+                    </pestname>
+                    <p>
+                        The onion thrips are major pests of onions throughout Africa. The onion thrips attack an extensive range of crops, including cereals and broadleaved crops. They are tiny (1 mm in length), slender and very mobile insects. Adult thrips are pale yellow to brown in colour. Immature thrips are whitish to pale yellow. Both immature and adult thrips pierce the upper surface of the leaves and feed on the plant sap, generally on the developing leaves, deep inside the plant. This results in white and silvery patches on the leaves.
+                        
+                        The excreta of the thrips are clearly visible as small black dots on the silvery leaves. Severe infestations can cause browning of the leaf tips, slowing of plant growth, distortion of leaves and bulbs, and reduction in bulb size. Although thrips feeding during the early bulbing stage is the most damaging to yields, thrips must be controlled before onions reach this stage so that populations do not exceed levels that can be adequately controlled. Onions can tolerate higher thrips populations closer to harvest.
+                   
+                    </p>
+                </pest>
+                <pest>
+                    <pestname>
+                        Onion fly (Delia antiqua)
+                    </pestname>
+                    <p>
+                        The larvae of the onion fly, also called onion maggot is a major pest of onions. The maggot is small (about 8 mm in size when fully grown), white-cream coloured. It eats the lateral roots, then tunnels into the taproot and sometimes bores into the base of the stem. Attacked leaves wilt and the leaves turn bluish. The plants become shrivelled or eventually die. The maggots feed just above the base of seedlings killing them. A maggot can attack several seedlings in succession. This causes poor plant establishment resulting in many gaps in the field.
+                        
+                        The maggots are also found inside developing onion bulbs. Their feeding exposes the plant to infection by diseases such as bacterial soft rot. Pupae are light to dark-brown in colour, and about 7 mm in length. Pupae are found in the soil near the base of the plant. The adult is a brownish grey fly, somewhat smaller than house flies. When at rest, they keep their wings folded one over the other. Adult flies do not cause damage. They lay eggs in the soil surface near the germinating plants.
+                        
+                        Onion maggots are adapted to cool, wet weather, so usually they are less of a problem during hot dry periods. They prefer soils heavy in organic matter. The onion maggot attacks plants related to onion such as leeks, shallots and garlic.
+                    
+                    </p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename>Purple blotch (Alternaria porri)</diseasename>
+                    <p>
+                        Purple blotch attacks onion, garlic, leek and other Allium crops. Initially, small white sunken spots develop on the leaves. These enlarge and under moist conditions, turn purple with a yellowish border and are often covered with a sooty deposit of spores. After 3-4 weeks the leaves turn yellow and collapse. Bulbs may also be attacked, mainly at the neck. This can be seen as a yellow to reddish watery rot.
+                        
+                        A good timing of sowing or transplanting can minimise purple blotch attack by A. porri, depending on the local environmental conditions. The fungus requires rain or persistent dew for reproduction. It can grow through a wide temperature range of 6 to 33.8 degC. Optimum temperature of fungal growth is 25 degC.
+                   
+                    </p>
+                </disease>
+                <disease>
+                    <diseasename>Downy mildew (Peronospora destructor)</diseasename>
+                    <p>
+                        It attacks young plants, appearing as white specks, usually confined to the oldest leaves of young plants. A greyish white mould develops rapidly in cool damp weather and progresses down the sheath, and plants eventually fall over and dry up. Optimum temperatures for fungal growth are between 13 and 20 degC. Because of the temperature requirements of the fungus, the disease is more serious in higher cooler areas.
+                        
+                        The fungus survives in seeds, bulbs, sets, and on plant debris. Spores are carried long distances by air currents. The fungus can infect onion, Welsh onion, Egyptian onion, garlic, shallot, leek and possibly some other species of Allium.
+                   
+                    </p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p>
+                        Onions respond very well to well decomposed organic manure. Organic manure at 25 to 40t/ha is recommended to obtain high bulb yield. 
+                
+                    </p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname></deficiencyname>
+                    <p></p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p>
+                Husbandry 
+           
+                Do not plant onions after the field has been planted with other Allium plants (e.g. garlic). Mulching onions with composted leaves and straw is highly recommended to maintain soil organic content, prevent soil-borne diseases, and suppress weeds. Planting onions in raised beds improves drainage and prevents damping-off diseases. 
+                
+                Weeding and harvesting are mostly done by hand, although chemical weed control is possible but not organic. Crop rotation is important to avoid the build-up of pests and diseases such as nematodes, Sclerotium and Fusarium.
+            
+            </p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p>
+                Harvesting takes place 90-150 days after sowing. Onions are ready for harvest when the leaves collapse. Alternatively the leaves can be bent over and left to dry for 10-12 days. The crop is pulled out by hand and kept for some days in the field with the bulbs covered by the leaves (= windrowing). The leaves are then cut off and the mature bulbs are bagged or packed in crates if they are to be stored. 
+                
+                Freshly harvested onions are dormant and will not sprout for a variable period of time (this depends on the variety). Storage will extend the dormant period. Sprouting will increase in storage temperatures above 4.4degC. It will decrease again as temperatures exceed 25degC. 
+         
+            </p>
+        </maturityandharvesting>
+    </crop>
+</cropproduction>

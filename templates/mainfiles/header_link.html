@@ -1,0 +1,21 @@
+<div class="user">
+    {% if request.user.is_authenticated %}
+        <ul>
+            <li>
+                <a href="">Login</a>
+            </li>
+            <li>
+                <a href="">SignUp</a>
+            </li>
+        </ul>
+    {% else %}
+        <ul>
+            <li>
+                <a href="">Login</a>
+            </li>
+            <li>
+                <a href="">SignUp</a>
+            </li>
+        </ul>
+    {% endif %}
+</div>

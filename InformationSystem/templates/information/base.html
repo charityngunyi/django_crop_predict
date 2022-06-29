@@ -1,0 +1,47 @@
+{% load static %}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <meta name="description" content="">
+  <meta name="author" content="">
+
+  <title>{% block title %}County Tenders{% endblock %}</title></title>
+
+  <!-- Bootstrap core CSS -->
+  <link href="{% static 'ajax/css/bootstrap.min.css' %}" rel="stylesheet">
+
+  <!-- Custom styles for this template -->
+  <!--<link href="{% static 'css/shop-item.css' %}" rel="stylesheet"> -->
+
+</head>
+
+<body>
+
+
+
+  <!-- Page Content -->
+  {% block content %}
+
+  {% endblock %}
+
+
+  <!-- /.container -->
+
+  <!-- Footer -->
+
+
+  <!-- Bootstrap core JavaScript -->
+ <script src="{% static 'information/js/jquery.js' %}"></script>
+    <script src="{% static 'information/js/mainjs.js' %}"></script>
+  <!-- <script src="{% static 'ajax/js/bootstrap.bundle.min.js' %}"></script> -->
+  {% block javascript %}
+
+  {% endblock %}
+
+</body>
+
+</html>

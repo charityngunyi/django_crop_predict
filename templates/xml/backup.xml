@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cropproduction>
+    <crop>
+        <cropname>Cocoa</cropname>
+        <cropid>1</cropid>
+        <category>cereals</category>
+        <botanicalname>Musa acuminate</botanicalname>
+        <varieties>
+            <variety>
+                <varietyid></varietyid>
+                <name>Grand Naine</name>
+                <colour>Green</colour>
+            </variety>
+        </varieties>
+        <cropabout>
+        </cropabout>
+        <ecologicalrequirements>
+            <rainfall></rainfall>
+            <soil></soil>
+            <temperature></temperature>
+            <altitude></altitude>
+        </ecologicalrequirements>
+        <propagation>
+        </propagation>
+        <landpreparationplanting>
+            <p>
+                
+            </p>
+        </landpreparationplanting>
+        <pestanddiseases>
+            <pests>
+                <pest>
+                    <pestname>
+                        
+                    </pestname>
+                    <p></p>
+                </pest>
+            </pests>
+            <diseases>
+                <disease>
+                    <diseasename></diseasename>
+                    <p></p>
+                </disease>
+            </diseases>
+        </pestanddiseases>
+        <nutritionandnutritiondeficiencies>
+            <nutritions>
+                <nutrition>
+                    <nutritionname></nutritionname>
+                    <p></p>
+                </nutrition>
+            </nutritions>
+            <deficiencies>
+                <deficiency>
+                    <deficiencyname></deficiencyname>
+                    <p></p>
+                </deficiency>
+            </deficiencies>
+        </nutritionandnutritiondeficiencies>
+        <weedcontrol>
+            <p></p>
+        </weedcontrol>
+        <maturityandharvesting>
+            <p></p>
+        </maturityandharvesting>
+    </crop>
+    
+    
+</cropproduction>

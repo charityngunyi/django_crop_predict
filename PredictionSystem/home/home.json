@@ -1,0 +1,12 @@
+[
+  {
+    "System1":"InformMe Prediction System",
+    "Heading":"Welcome to InformMe Prediction System Platform",
+    "About":"The system helps you to predict the best crop you can grow in your farm. Just click predict link and key in the requested requirements and wait for the results from the system.",
+    "Procedure":"Procedure for prediction.",
+    "Steps":{
+      "step1":"The required requirements are rainfall amount, soil PH, temperature and region altitude.",
+      "step2":"Take small sample of"
+    },
+  }
+]

@@ -1,0 +1,25 @@
+{% extends "mainfiles/base.html" %}
+{% load comments %}
+{% block content %}
+    <div class="col-lg-6 offset-4">
+    {% for quest in the_questions %}
+        <h4>
+            <a href="{{ quest.get_absolute_url }}">{{ quest.title }}</a>
+        </h4>
+        <small>
+        <p>
+            {{ quest.author }}
+        </p>
+        </small>
+        <small>
+        {% get_comment_count for quest as comment_count %}
+            <p class="date">Published {{ quest.created }}
+                {% if comment_count %}
+                    &sdot;&nbsp;{{ comment_count }} comment{{ comment_count|pluralize }}
+                {% endif %}
+            </p>
+
+        </small>
+    {% endfor %}
+    </div>
+{% endblock %}

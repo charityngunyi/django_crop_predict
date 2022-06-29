@@ -1,0 +1,136 @@
+{% extends "mainfiles/base.html" %}
+{% load static %}
+{% block title %}Create an account{% endblock %}
+{% block stylesheet %}
+    <link href="{% static 'information/css/main.css' %}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+    <div class="container" id="thecontainer">
+        <div id="slideshow" class="intro">
+            <div class="myslide"><img src="{% static 'information/img/home1.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home2.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home3.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home4.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home5.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home6.webp' %}" style="width:100%"/></div>
+            <div class="myslide"><img src="{% static 'information/img/home7.webp' %}" style="width:100%"/></div>
+        </div>
+        <span></span>
+        <hr />
+        <div class="main-container">
+            <div id="div1">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3" id="about">
+                        <span></span>
+
+                        <div>
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">Our Promise</span>
+                                <span class="section-heading-lower">To You</span>
+                            </h2>
+                            <p class="mb-0">
+                             We are dedicated to providing our farmers with friendly service, with an aim to increase your crop yields
+                            </p>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <button class="bg-primary">
+                                        <a href="javascript:AboutUs()">
+                                            Learn More about Us.
+                                        </a>
+                                    </button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-lg-offset-3" id="howpredict">
+                         <span></span>
+
+                        <div>
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">How the System</span>
+                                <span class="section-heading-lower">Can Predict</span>
+                            </h2>
+                            <p class="mb-0">
+                              The system needs rainfall, soil PH ,temperature and altitude averages to predict the best crop that match your measurements.
+                            </p>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <button class="bg-primary">
+                                        <a href="javascript:HowToPredict()">
+                                            How to Predict
+                                        </a>
+                                    </button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <span></span>
+            <hr />
+            <div id="div2">
+                <div class="row">
+                    <div class="col-lg-6 col-lg-offset-3" id="soilsample">
+                         <span></span>
+
+                        <div>
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">What you need</span>
+                                <span class="section-heading-lower">To come up with correct measurements</span>
+                            </h2>
+                            <p class="mb-0">
+                            For prediction to be successful and helpful the most crucial part is taking a soil sample which will be needed to measure accurate prediction requirements.
+                            </p>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <button class="bg-primary">
+                                        <a href="javascript:SoilSamplingProcure()">
+                                            Soil Sampling Procedure
+                                        </a>
+                                    </button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6 col-lg-offset-3" id="customersupport">
+                         <span></span>
+
+                        <div>
+                            <h2 class="section-heading mb-4">
+                                <span class="section-heading-upper">Friendly Farmers platform</span>
+                                <span class="section-heading-lower">To You</span>
+                            </h2>
+                            <p class="mb-0">
+                             We are dedicated to providing our farmers with creating a collaborative community where farmers can ask questions and get responses from their fellow farmers, proffessionals, experts e.t.c
+                            </p>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <button class="bg-primary">
+                                        <a href="javascript:FarmersPlatform()">
+                                            About Customer Support
+                                        </a>
+                                    </button>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div id="loadjs">
+
+    </div>
+{% endblock %}
+{% block javascript %}
+    <script src="{% static 'information/js/homeimage.js' %}"></script>
+    <script src="{% static 'information/js/home.js' %}"></script>
+{% endblock %}

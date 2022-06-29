@@ -1,0 +1,62 @@
+{% extends "mainfiles/base.html" %}
+{% load crispy_forms_tags %}
+{% block title %}Log-in{% endblock %}
+{% block content %}
+    <div></div>
+    <span></span>
+    <hr />
+    <div class="main-container">
+            <div id="div1">
+                <div class="row">
+                    <div class="col-lg-4 col-lg-offset-2" id="about">
+                        <span></span>
+
+                        <div>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <li class="bg-primary">
+                                       <a href="{% url "comments:customer_question" %}">Post a Question</a>
+                                    </li>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-4 col-lg-offset-2" id="howpredict">
+                         <span></span>
+
+                        <div>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <li class="bg-primary">
+                                        <a href="{% url "comments:dash" %}">My Questions</a>
+                                    </li>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <div class="col-lg-4 col-lg-offset-2" id="soilsample">
+                         <span></span>
+
+                        <div>
+                        </div>
+                        <ul>
+                            <li class="center">
+                                <div>
+                                    <li class="bg-primary">
+                                        <a href="{% url "comments:question_list" %}">Questions asked</a>
+                                    </li>
+                                </div>
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                </div>
+            </div>
+
+{% endblock %}

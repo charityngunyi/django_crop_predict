@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<procedures>
+    <soil>
+        <title>
+            Soil :: Soil Sampling Procedure 
+        </title>
+        <principle>
+            Soil testing is an essential component of soil resource management. Each sample collected must be a true representative of the area being sampled. Utility of the results obtained from the laboratory analysis depends on the sampling precision. Hence, collection of large number of samples is advisable so that sample of desired size can be obtained by sub-sampling. In general, sampling is done at the rate of one sample for every two hectare area. However, at-least one sample should be collected for a maximum area of five hectares. For soil survey work, samples are collected from a soil profile representative to the soil of the surrounding area.
+        </principle>
+        <materialsrequired>
+            <material>
+                <materialname>
+                    Spade or auger (screw or tube or post hole type)
+                </materialname>
+            </material>
+            <material>
+                <materialname>
+                    Khurpi   
+                </materialname>
+            </material>
+            <material>
+                <materialname>
+                    Core sampler  
+                </materialname>
+            </material>
+            <material>
+                <materialname>
+                    Sampling bags 
+                </materialname>
+            </material>
+            <material>
+                <materialname>
+                    Plastic tray or bucket
+                </materialname>
+            </material>
+        </materialsrequired>
+        <consideration>
+            <p>
+                Collect the soil sample during fallow period.
+            </p>
+            <p>
+                In the standing crop, collect samples between rows. 
+            </p>
+            <p>
+                Sampling at several locations in a zig-zag pattern ensures homogeneity.
+            </p>
+            <p>
+                Fields, which are similar in appearance, production and past-management practices, can be grouped into a single sampling unit.
+            </p>
+            <p>
+                Collect separate samples from fields that differ in colour, slope, drainage, past management practices like liming, gypsum application, fertilization, cropping system etc. 
+            </p>
+            <p>
+                Avoid sampling in dead furrows, wet spots, areas near main bund, trees, manure heaps and irrigation channels.
+            </p>
+            <p>
+                For shallow rooted crops, collect samples up to 15 cm depth. For deep rooted crops, collect samples up to 30 cm depth. For tree crops, collect profile samples. 
+            </p>
+            <p>
+                Always collect the soil sample in presence of the farm owner who knows the farm better 
+            </p>
+        </consideration>
+        <procedure>
+            <p>
+                Divide the field into different homogenous units based on the visual observation and farmer’s experience. 
+            </p>
+            <p>
+                Remove the surface litter at the sampling spot.  
+            </p>
+            <p>
+                Drive the auger to a plough depth of 15 cm and draw the soil sample.  
+            </p>
+            <p>
+                Collect at least 10 to 15 samples from each sampling unit and place in a bucket or tray. 
+            </p>
+            <p>
+                If auger is not available, make a ‘V’ shaped cut to a depth of 15 cm in the sampling spot using spade.
+            </p>
+            <p>
+                Remove thick slices of soil from top to bottom of exposed face of the ‘V’ shaped cut and place in a clean container.
+            </p>
+            <p>
+                Mix the samples thoroughly and remove foreign materials like roots, stones, pebbles and gravels. 
+            </p>
+            <p>
+                Reduce the bulk to about half to one kilogram by quartering or compartmentalization.  
+            </p>
+            <p>
+                Quartering is done by dividing the thoroughly mixed sample into four equal parts. The two opposite quarters are discarded and the remaining two quarters are remixed and the process repeated until the desired sample size is obtained.
+            </p>
+            <p>
+                Compartmentalization is done by uniformly spreading the soil over a clean hard surface and dividing into smaller compartments by drawing lines along and across the length and breadth. From each compartment a pinch of soil is collected. This process is repeated till the desired quantity of sample is obtained.  
+            </p>
+            <p>
+                Collect the sample in a clean cloth or polythene bag. 
+            </p>
+            <p>
+                Label the bag with information like name of the farmer, location of the farm, survey number, previous crop grown, present crop, crop to be grown in the next season, date of collection, name of the sampler etc.
+                
+                
+            </p>
+        </procedure>
+        <profile>
+            <p>
+                After the profile has been exposed, clean one face of the pit carefully with a spade and note the succession and depth of each horizon. 
+            </p>
+            <p>
+                Prick the surface with a knife or edge of the spade to show up structure, colour and compactness.
+            </p>
+            <p>
+                Collect samples starting from the bottom most horizon first by holding a large basin at the bottom limit of the horizon while the soil above is loosened by a khurpi. 
+            </p>
+            <p>
+                Mix the sample and transfer to a polythene or cloth bag and label it.
+            </p>
+        </profile>
+        <processingandstorage>
+            <p>
+                Assign the sample number and enter it in the laboratory soil sample register.
+            </p>
+            <p>
+                Dry the sample collected from the field in shade by spreading on a clean sheet of paper after breaking the large lumps, if present. 
+            </p>
+            <p>
+                Spread the soil on a paper or polythene sheet on a hard surface and powder the sample by breaking the clods to its ultimate soil particle using a wooden mallet.
+            </p>
+            <p>
+                Sieve the soil material through 2 mm sieve. 
+            </p>
+            <p>
+                Repeat powdering and sieving until only materials of >2 mm (no soil or clod) are left on the sieve.
+            </p>
+            <p>
+                Collect the material passing through the sieve and store in a clean glass or plastic container or polythene bag with proper labeling for laboratory analysis.
+            </p>
+            <p>
+                For the determination of organic matter it is desirable to grind a representative sub sample and sieve it through 0.2 mm sieve.
+            </p>
+            <p>
+                If the samples are meant for the analysis of micronutrients at-most care is needed in handling the sample to avoid contamination of iron, zinc and copper. Brass sieves should be avoided and it is better to use stainless steel or polythene materials for collection, processing and storage of samples.
+            </p>
+            <p>
+                Air-drying of soils must be avoided if the samples are to be analyzed for NO3-N and NH4-N as well as for bacterial count.
+            </p>
+            <p>
+                Field moisture content must be estimated in un-dried sample or to be preserved in a sealed polythene bag immediately after collection.
+            </p>
+            <p>
+                Estimate the moisture content of sample before every analysis to express the results on dry weight basis.
+                
+                
+            </p>
+        </processingandstorage>
+        <guidlines>
+            <guidline>
+                <crop>
+                    Grasses and grasslands
+                </crop>
+                <inches>
+                    2
+                </inches>
+                <cm>
+                  5  
+                </cm>
+            </guidline>
+            <guidline>
+                <crop>
+                    Rice, finger millet, groundnut, pearl millet, small millets etc.(shallow rooted crops)
+                </crop>
+                <inches>
+                   6 
+                </inches>
+                <cm>
+                 15   
+                </cm>
+            </guidline>
+            <guidline>
+                <crop>
+                    Cotton, sugarcane, banana, tapioca, vegetables etc. (deep rooted crops)
+                </crop>
+                <inches>
+                  9  
+                </inches>
+                <cm>
+                   22 
+                </cm>
+            </guidline>
+            <guidline>
+                <crop>
+                    Perennial crops, plantations and orchard crops
+                </crop>
+                <inches>
+                    Three soil samples at 12, 24 and  36 inches
+                </inches>
+                <cm>
+                    Three soil samples at 30, 60 and 90 cm 
+                </cm>
+            </guidline>
+        </guidlines>
+    </soil>
+</procedures>

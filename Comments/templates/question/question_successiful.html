@@ -1,0 +1,16 @@
+{% extends "mainfiles/base.html" %}
+ load comments %}
+{% block content %}
+    <div class="col-lg-6 offset-4">
+    <h2>
+        Question successfully added.
+    </h2>
+    <div>
+        <li>
+            <a href="{% url "comments:dash" %}">
+                View Your Questions.
+            </a>
+        </li>
+    </div>
+    </div>
+{% endblock %}

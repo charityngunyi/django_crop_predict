@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<cropproduction>
+<crop>
+    <cropid>1</cropid>
+    <cropname>Cocoa</cropname>
+    <category>horticulture</category>
+    <botanicalname>Musa acuminate</botanicalname>
+    <varieties>
+        <variety>
+            <name>Grand Naine</name>
+            <colour>Green</colour>
+        </variety>
+    </varieties>
+    <cropabout>
+        <about>Cocoa (Theobroma cacao) is a tropical tree crop originating from the Amazon basin where it grows in the shaded rainforest understorey and can reach 20 m in height. The tree produces pods that contain about 40 cocoa beans surrounded by a sweet tasting pulp. When fermented and processed, the beans produce one of the most desired flavours in the world - chocolate.
+
+Cocoa seedlings have a single main stem that grows vertically to a height of 1-2 m. The bud then forms three to five branches (the jorquette) that grow out at an angle as fan branches. Further upright suckers (chupons) emerge below the jorquette and grow up through the fan branches forming more jorquettes and further whorls of fan branch growth. In this way the tree becomes higher, forming several layers of jorquettes, each successively weakening and eventually fading out.
+
+The root system of a mature tree comprises a taproot up to 2 m long and a dense system of lateral roots in the top 20 cm. These roots spread out to lengths of 5-6 m forming a dense surface-feeding mat.
+
+Flowers arise from cushions in the wood of the main stem and fan branches once they are at least two to three years old. Only 1-5% of flowers are successfully pollinated and form pods. Pollinating insects are mainly tiny midges that require cool, dark, moist habitats and breed in rotting vegetation.
+
+Although only a small percentage of flowers are pollinated, the tree sets too many fruit to carry to maturity. Cocoa has a fruit thinning mechanism where the young fruit (cherelles) stop growing, turn black and shrivel, but do not fall off the tree. This is called cherelle wilt and is often mistaken as a disease situation. The remaining pods take six months to ripen after pollination. Ripe pods do not fall off the tree.</about>
+        <climatefactor>Climatic and site requirements place cocoa in the tropical regions of the world generally within 15° of the equator. This region is predominantly underdeveloped and highly populated, and cocoa production has evolved with access to cheap and plentiful labour. Irrigation is rarely used and planting has been restricted to regions with reliable, year round rainfall.
+
+Cocoa is usually grown under remnant forest, planted shade trees or intercropped with other commercial crops that protect the cocoa. In Malaysia and Indonesia, cocoa is also grown in full sun, although shade is used during establishment. The height of cocoa is kept to about 3-5 m to make management and harvesting easier. Average yields are low, about 1 tonne/ha or less of dry beans. Harvesting has a high labour demand for a relatively short and often unpredictable season. After harvest, beans are fermented and dried by growers or at a central fermentary, and then traded.
+
+About 70% of world production is grown by smallholders on a low input, low output basis. Typically, family or village labour is used at relatively little cost. Trees can be individually managed and the quality of bean fermentation is usually assured. As a rule of thumb, one labourer is required per 2.5 ha of established cocoa in traditional production systems.
+
+Remaining production is on plantations of about 20 ha and upwards. Only recently have plantation companies running large-scale operations grown cocoa. Cocoa does not offer the advantages of other crops grown under estate-style management systems. It does not require substantial capital expenditure on processing equipment and industrialised fermentation has generally compromised quality. Also, labour productivity on plantations is critical to profitability, but there has been no determined effort to mechanise cultural practices. To be competitive with smallholders, plantation cocoa must achieve higher average yields and this requires higher levels of inputs for sustainability.</climatefactor>
+        <history>For many centuries, the Mayas in South America harvested cocoa from the wild for use in religious ceremonies. In Central America, the Aztecs used cocoa to make a thick chocolate style drink and cocoa beans were used widely as currency. It is not known how cocoa originally reached Central America, but after the conquest of Mexico, cocoa cultivation spread to the Caribbean, then across the Pacific to the Philippines, the East Indies and India. Cocoa also began to be cultivated in Brazil and from there it was eventually taken to Africa in the 19th century.
+
+European nations gradually became aware of cocoa in the 17th century. When the Swiss developed milk chocolate manufacturing late in the 18th century, increased consumption stimulated the demand for cocoa, which led to widespread cultivation. In the 20th century, production increased rapidly - from less than 125,000 tonnes in the early 1900s to 4,365,000 tonnes in 2013-2014.</history>
+    </cropabout>
+    <environmentalfactor>
+        <temperature></temperature>
+        <rainfall></rainfall>
+        <soilPH></soilPH>
+        <soiltype></soiltype>
+        <wind></wind>
+    </environmentalfactor>
+    <propagation>
+        <nursery></nursery>
+    </propagation>
+    <landpreparation></landpreparation>
+    <cropmanagement>
+        <nutrition></nutrition>
+        <weedcontrol></weedcontrol>
+        <pestanddiseases></pestanddiseases>
+        <pruning></pruning>
+    </cropmanagement>
+    <harvestingandprocessing>
+
+    </harvestingandprocessing>
+
+
+</crop>
+<crop>
+    <cropid></cropid>
+    <cropname></cropname>
+    <botanicalname></botanicalname>
+    <varieties>
+        <variety>
+            <name></name>
+            <colour></colour>
+        </variety>
+    </varieties>
+    <cropabout>
+        <about></about>
+        <climatefactor></climatefactor>
+        <history></history>
+    </cropabout>
+    <environmentalfactor>
+        <temperature></temperature>
+        <rainfall></rainfall>
+        <soilPH></soilPH>
+        <soiltype></soiltype>
+        <wind></wind>
+    </environmentalfactor>
+    <propagation>
+        <nursery></nursery>
+    </propagation>
+    <landpreparation></landpreparation>
+    <cropmanagement>
+        <nutrition></nutrition>
+        <weedcontrol></weedcontrol>
+        <pestanddiseases></pestanddiseases>
+        <pruning></pruning>
+    </cropmanagement>
+    <harvestingandprocessing>
+
+    </harvestingandprocessing>
+
+
+</crop>
+<crop>
+    <cropid></cropid>
+    <cropname></cropname>
+    <botanicalname></botanicalname>
+    <varieties>
+        <variety>
+            <name></name>
+            <colour></colour>
+        </variety>
+    </varieties>
+    <cropabout>
+        <about></about>
+        <climatefactor></climatefactor>
+        <history></history>
+    </cropabout>
+    <environmentalfactor>
+        <temperature></temperature>
+        <rainfall></rainfall>
+        <soilPH></soilPH>
+        <soiltype></soiltype>
+        <wind></wind>
+    </environmentalfactor>
+    <propagation>
+        <nursery></nursery>
+    </propagation>
+    <landpreparation></landpreparation>
+    <cropmanagement>
+        <nutrition></nutrition>
+        <weedcontrol></weedcontrol>
+        <pestanddiseases></pestanddiseases>
+        <pruning></pruning>
+    </cropmanagement>
+    <harvestingandprocessing>
+
+    </harvestingandprocessing>
+
+
+</crop>
+<crop>
+    <cropid></cropid>
+    <cropname></cropname>
+    <botanicalname></botanicalname>
+    <varieties>
+        <variety>
+            <name></name>
+            <colour></colour>
+        </variety>
+    </varieties>
+    <cropabout>
+        <about></about>
+        <climatefactor></climatefactor>
+        <history></history>
+    </cropabout>
+    <environmentalfactor>
+        <temperature></temperature>
+        <rainfall></rainfall>
+        <soilPH></soilPH>
+        <soiltype></soiltype>
+        <wind></wind>
+    </environmentalfactor>
+    <propagation>
+        <nursery></nursery>
+    </propagation>
+    <landpreparation></landpreparation>
+    <cropmanagement>
+        <nutrition></nutrition>
+        <weedcontrol></weedcontrol>
+        <pestanddiseases></pestanddiseases>
+        <pruning></pruning>
+    </cropmanagement>
+    <harvestingandprocessing>
+
+    </harvestingandprocessing>
+
+
+</crop>
+    <crop>
+    <cropid>2</cropid>
+    <cropname>Mushroom</cropname>
+    <category>floriculture</category>
+    <botanicalname>Musa acuminate</botanicalname>
+    <varieties>
+        <variety>
+            <name>Grand Naine</name>
+            <colour>Green</colour>
+        </variety>
+    </varieties>
+    <cropabout>
+        <about>Cocoa (Theobroma cacao) is a tropical tree crop originating from the Amazon basin where it grows in the shaded rainforest understorey and can reach 20 m in height. The tree produces pods that contain about 40 cocoa beans surrounded by a sweet tasting pulp. When fermented and processed, the beans produce one of the most desired flavours in the world - chocolate.
+
+Cocoa seedlings have a single main stem that grows vertically to a height of 1-2 m. The bud then forms three to five branches (the jorquette) that grow out at an angle as fan branches. Further upright suckers (chupons) emerge below the jorquette and grow up through the fan branches forming more jorquettes and further whorls of fan branch growth. In this way the tree becomes higher, forming several layers of jorquettes, each successively weakening and eventually fading out.
+
+The root system of a mature tree comprises a taproot up to 2 m long and a dense system of lateral roots in the top 20 cm. These roots spread out to lengths of 5-6 m forming a dense surface-feeding mat.
+
+Flowers arise from cushions in the wood of the main stem and fan branches once they are at least two to three years old. Only 1-5% of flowers are successfully pollinated and form pods. Pollinating insects are mainly tiny midges that require cool, dark, moist habitats and breed in rotting vegetation.
+
+Although only a small percentage of flowers are pollinated, the tree sets too many fruit to carry to maturity. Cocoa has a fruit thinning mechanism where the young fruit (cherelles) stop growing, turn black and shrivel, but do not fall off the tree. This is called cherelle wilt and is often mistaken as a disease situation. The remaining pods take six months to ripen after pollination. Ripe pods do not fall off the tree.</about>
+        <climatefactor>Climatic and site requirements place cocoa in the tropical regions of the world generally within 15° of the equator. This region is predominantly underdeveloped and highly populated, and cocoa production has evolved with access to cheap and plentiful labour. Irrigation is rarely used and planting has been restricted to regions with reliable, year round rainfall.
+
+Cocoa is usually grown under remnant forest, planted shade trees or intercropped with other commercial crops that protect the cocoa. In Malaysia and Indonesia, cocoa is also grown in full sun, although shade is used during establishment. The height of cocoa is kept to about 3-5 m to make management and harvesting easier. Average yields are low, about 1 tonne/ha or less of dry beans. Harvesting has a high labour demand for a relatively short and often unpredictable season. After harvest, beans are fermented and dried by growers or at a central fermentary, and then traded.
+
+About 70% of world production is grown by smallholders on a low input, low output basis. Typically, family or village labour is used at relatively little cost. Trees can be individually managed and the quality of bean fermentation is usually assured. As a rule of thumb, one labourer is required per 2.5 ha of established cocoa in traditional production systems.
+
+Remaining production is on plantations of about 20 ha and upwards. Only recently have plantation companies running large-scale operations grown cocoa. Cocoa does not offer the advantages of other crops grown under estate-style management systems. It does not require substantial capital expenditure on processing equipment and industrialised fermentation has generally compromised quality. Also, labour productivity on plantations is critical to profitability, but there has been no determined effort to mechanise cultural practices. To be competitive with smallholders, plantation cocoa must achieve higher average yields and this requires higher levels of inputs for sustainability.</climatefactor>
+        <history>For many centuries, the Mayas in South America harvested cocoa from the wild for use in religious ceremonies. In Central America, the Aztecs used cocoa to make a thick chocolate style drink and cocoa beans were used widely as currency. It is not known how cocoa originally reached Central America, but after the conquest of Mexico, cocoa cultivation spread to the Caribbean, then across the Pacific to the Philippines, the East Indies and India. Cocoa also began to be cultivated in Brazil and from there it was eventually taken to Africa in the 19th century.
+
+European nations gradually became aware of cocoa in the 17th century. When the Swiss developed milk chocolate manufacturing late in the 18th century, increased consumption stimulated the demand for cocoa, which led to widespread cultivation. In the 20th century, production increased rapidly - from less than 125,000 tonnes in the early 1900s to 4,365,000 tonnes in 2013-2014.</history>
+    </cropabout>
+    <environmentalfactor>
+        <temperature></temperature>
+        <rainfall></rainfall>
+        <soilPH></soilPH>
+        <soiltype></soiltype>
+        <wind></wind>
+    </environmentalfactor>
+    <propagation>
+        <nursery></nursery>
+    </propagation>
+    <landpreparation></landpreparation>
+    <cropmanagement>
+        <nutrition></nutrition>
+        <weedcontrol></weedcontrol>
+        <pestanddiseases></pestanddiseases>
+        <pruning></pruning>
+    </cropmanagement>
+    <harvestingandprocessing>
+
+    </harvestingandprocessing>
+
+
+</crop>
+</cropproduction>

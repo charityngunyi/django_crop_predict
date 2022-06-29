@@ -1,0 +1,34 @@
+{% extends "mainfiles/base.html" %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block title %}
+
+{% endblock %}
+
+{% block content %}
+    <div class="row">
+    <div class="col-sm-3">
+        <span></span>
+    </div>
+        <div class="col-sm-6 col-sm-offset-3">
+            <div class="wrapper">
+                <h2>InformMe Prediction System</h2>
+
+            </div>
+            <div class="jumbotron">
+            <p>Your predicted crop is.</p>
+                {% for predict in prediction %}
+                    <h1><bold>{{ predict }}</bold></h1>
+                {% endfor %}
+            </div>
+            <div class="container">
+                <li>
+                    <a href="{% url "PredictionSystem:predict" %}">Predict again</a>
+                </li>
+                <li>
+                    <a href="{% url "information_system:crops_view" %}">Visit crop information system.</a>
+                </li>
+            </div>
+        </div>
+    </div>
+{% endblock %}

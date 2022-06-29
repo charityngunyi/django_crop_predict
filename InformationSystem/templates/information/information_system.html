@@ -1,0 +1,48 @@
+{% extends "mainfiles/base.html" %}
+{% load static %}
+{% load crispy_forms_tags %}
+{% block title %}
+
+{% endblock %}
+
+{% block content %}
+    <div class="wrapper">
+        <h2>InformMe Prediction System</h2>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-3">
+                <h1 class="my-4">Crop Categories</h1>
+                <div class="list-group">
+
+                    <div>
+                            <a href="javascript:FilterCropList3('cereals')">
+                                Cereals
+                            </a>
+                        </div>
+                        <div>
+                            <a href="javascript:FilterCropList3('fruits')">
+                                Fruits
+                            </a>
+                        </div>
+                        <div>
+                            <a href="javascript:FilterCropList3('vegetable')">
+                                Vegetable
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-9" id="home">
+                    <div id="output">
+                        <div class="croplist">
+                            <h3>please navigate the categories on the side bar and select the crops interested of</h3>
+                        </div>
+            </div>
+                </div>
+            </div>
+    </div>
+{% endblock %}
+{% block javascript %}
+    <script src="{% static 'information/js/jquery.js' %}"></script>
+    <script src="{% static 'information/js/test1.js' %}"></script>
+{% endblock %}
