@@ -19,8 +19,8 @@ from django.conf import settings
 from django.conf.urls.static import static
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('PredictionSystem.urls')),
-    path('crops/', include('InformationSystem.urls')),
+    path('', include('InformationSystem.urls')),
+    path('predict/', include('PredictionSystem.urls')),
     path('questions/', include('Comments.urls')),
     path(r'comments/', include('django_comments_xtd.urls')),
     path('account/', include('account.urls')),
