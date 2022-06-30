@@ -7,8 +7,9 @@ import matplotlib.pyplot as plt
 from sklearn.svm import SVC
 from sklearn.neighbors import KNeighborsClassifier
 
-filepath = 'https://github.com/charityngunyi/django_crop_predict/blob/main/PredictionSystem/crops/crop_df.csv'
-data = pd.read_csv(filepath, sep='delimiter', header=None)
+remote_filepath = 'https://github.com/charityngunyi/django_crop_predict/blob/main/PredictionSystem/crops/crop_df.csv'
+# local_filepath = '/home/charity/Django2.1/CropPredictionSystem/PredictionSystem/crops/crop_df.csv'
+data = pd.read_csv(remote_filepath)
 
 X = data.drop(['Id', 'type'], axis=1)
 y = data['type']
