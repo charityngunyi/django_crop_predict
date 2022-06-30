@@ -1,2 +1,2 @@
-web: gunicorn croppredict.wsgi --log-file -
+web: gunicorn CropPredictionSystem.wsgi --log-file -
 
