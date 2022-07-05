@@ -1,0 +1,29 @@
+{% extends "mainfiles/base.html" %}
+{% load static %}
+{% block title %}Create an account{% endblock %}
+{% block stylesheet %}
+    <link href="{% static 'information/css/main.css' %}" rel="stylesheet">
+{% endblock %}
+{% block content %}
+<!--<li>About page with javascript functions to display various about pages-->
+    <div id="main" class="row">
+      <div class="col-sm-4" id="about">
+        <nav><div class="" >
+        <ul class="nav bd-sidenav">
+        <!--<li><The links available-->
+        <li><a href="javascript:AboutUs()">About Us</a></li>
+        <li><a href="javascript:HowToPredict()">How to Predict</a></li>
+        <li><a href="javascript:SoilSamplingProcure()">Soil Sampling Procedure</a></li>
+        <li><a href="javascript:FarmersPlatform()">Customer support</a></li>
+      </ul></div></nav>
+      </div>
+      <div class="col-sm-8" id="home">
+        <div id="maincontent">
+          
+        </div></div>
+    </div>  
+{% endblock %}
+{% block javascript %}
+    <script src="{% static 'information/js/homeimage.js' %}"></script>
+    <script src="{% static 'information/js/home.js' %}"></script>
+{% endblock %}

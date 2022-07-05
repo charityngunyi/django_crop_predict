@@ -4,6 +4,12 @@
     background-size:cover;
     min-height: 300px;
 }
+#about li a{
+    color: blue;
+}
+#about li a:hover{
+    color: mediumseagreen;
+}
 #customersupport{
     background:-webkit-gradient(linear,left top,left bottom);
     background-position:center;
@@ -21,4 +27,7 @@
     background-position:center;
     background-size:cover;
     min-height: 300px;
+}
+#topbar{
+    background-color: black;
 }

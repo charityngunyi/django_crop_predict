@@ -1,5 +1,5 @@
 function AboutUs() {
-    $('#slideshow').show();
+    // $('#slideshow').show();
     var output = '<div class="container">';
     output+='<div class="wrapper">';
     output+='<h2>About Us</h2>';
@@ -10,12 +10,12 @@ function AboutUs() {
     output+='<p>The governmet have tried their best to support farmers interms of best farming methods, use of modern fertilizers, modern machinery but yet our farmers are experiencing low crop yields products.' +
         'Hence our aim is to provide a crop prediction system that can predict a certain crop that can be grown with given certain condidtions ,which will allow full utilization of resources that our farmers have.</p>'
     output+='</div>';
-    $('#loadjs').html(output);
-    $("#loadjs").fadeIn(1000);
-    $('#slideshow').hide();
+    $('#maincontent').html(output);
+    // $("#loadjs").fadeIn(1000);
+    // $('#slideshow').hide();
 };
 function HowToPredict() {
-     $('#slideshow').show();
+    //  $('#slideshow').show();
     var output = '<div class="container">';
     output+='<div class="wrapper">';
     output+='<h2>How to Predict</h2>';
@@ -26,17 +26,16 @@ function HowToPredict() {
     output+='<p>The prediction system requires rainfall, soil PH ,temperature and altitude averages to predict the best crop that match your measurements..</p>';
     output+='<p class="mb-0">Click on predict link and key in the required measurements and automatically get your predicted crop.</p>';
     output+='</div>';
-    $('#loadjs').html(output);
-    $("#loadjs").fadeIn(1000);
-    $('#slideshow').hide();
+    $('#maincontent').html(output);
+    // $("#loadjs").fadeIn(1000);
+    // $('#slideshow').hide();
 }
 
 function SoilSamplingProcure()  {
-    $('#slideshow').show();
-    var sucess = '';
+    // $('#slideshow').show();
     $.ajax({
         type:"GET",
-        url:"/crops/soil_sampling",
+        url:"http://127.0.0.1:8000/soil_sampling",
         dataType:"xml",
         async:true,
         data:{ csrfmiddlewaretoken: '{{ csrf_token }}'},
@@ -45,7 +44,7 @@ function SoilSamplingProcure()  {
     });
 
     function xmlParser(xml) {
-        $('.croplist').fadeOut();
+        // $('.croplist').fadeOut();
         $(xml).find("soil").each(function () {
             var output='<div class="card-body">';
             output+='<p class="mb-0">For prediction to be successful and helpful the most crucial part is taking a soil sample which will be needed to measure accurate prediction requirements. </p>';
@@ -111,21 +110,21 @@ function SoilSamplingProcure()  {
 
                 });
                 output+='</table>';
-                $('#loadjs').html(output);
-                $("#loadjs").fadeIn(1000);
-                $('#slideshow').hide();
+                $('#maincontent').html(output);
+                // $("#loadjs").fadeIn(1000);
+                // $('#slideshow').hide();
 
 
 
         });
     }
     function failxml() {
-        $('#loadjs').html('Sorry! We could not load the information at the moment');
-        $('#slideshow').hide();
+        $('#maincontent').html('Sorry! We could not load the information at the moment');
+        // $('#slideshow').hide();
         }
 }
 function FarmersPlatform() {
-    $('#slideshow').show();
+    // $('#slideshow').show();
     var output = '<div class="container">';
     output+='<div class="wrapper">';
     output+='<h2>Friendly Farmers platform</h2>';
@@ -135,7 +134,7 @@ function FarmersPlatform() {
         '</p>';
     output+='<p class="mb-0">Click on Customer support link to post a question</p>';
     output+='</div>';
-    $('#loadjs').html(output);
-    $("#loadjs").fadeIn(1000);
-    $('#slideshow').hide();
+    $('#maincontent').html(output);
+    // $("#loadjs").fadeIn(1000);
+    // $('#slideshow').hide();
 };

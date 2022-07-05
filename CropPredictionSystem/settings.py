@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'InformationSystem',
     'crispy_forms',
     'Comments',
+    'blog',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',

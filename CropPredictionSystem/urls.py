@@ -22,8 +22,9 @@ urlpatterns = [
     path('', include('InformationSystem.urls')),
     path('predict/', include('PredictionSystem.urls')),
     path('questions/', include('Comments.urls')),
-    path(r'comments/', include('django_comments_xtd.urls')),
+    path('comments/', include('django_comments_xtd.urls')),
     path('account/', include('account.urls')),
+    path('blog', include('blog.urls')),
 
 ]
 urlpatterns += [

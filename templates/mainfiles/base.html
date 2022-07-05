@@ -9,9 +9,9 @@
     <title>
         {% block title %}InformMe Prediction System{% endblock %}
     </title>
-    <link href="{% static 'cropprediction/css/bootstrap.min.css' %}" rel="stylesheet">
-    <link href="{% static 'cropprediction/css/predict.css' %}" rel="stylesheet">
-    <link href="{% static 'information/css/home.css' %}" rel="stylesheet">
+    <link href="{% static 'main/css/bootstrap.min.css' %}" rel="stylesheet">
+    <link href="{% static 'main/css/main.css' %}" rel="stylesheet">
+    <link href="{% static 'main/css/index.css' %}" rel="stylesheet">
     {% block stylesheet %}
 {% endblock %}
 </head>
@@ -31,7 +31,10 @@
                 <a href="{% url "PredictionSystem:predict" %}">Predict</a>
             </li>
             <li>
-                <a href="{% url "information_system:crops_view" %}">Crops Information</a>
+                <a href="{% url "information_system:about" %}">About</a>
+            </li>
+            <li>
+                <a href="{% url "blog:post_list" %}">Blog</a>
             </li>
             <li>
                 <a href="{% url "comments:dashboard" %}">Customer Support</a>
@@ -45,7 +48,12 @@
 {% block content %}
 
 {% endblock %}
-<script src="{% static 'information/js/jquery.js' %}"></script>
+<script src="{% static 'main/js/jquery.min.js' %}"></script>
+<!-- Development version -->
+<script src="https://unpkg.com/@popperjs/core@2/dist/umd/popper.js"></script>
+
+<!-- Production version -->
+<script src="https://unpkg.com/@popperjs/core@2"></script>
 {% block javascript %}
 
 {% endblock %}
