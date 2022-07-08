@@ -17,13 +17,13 @@
     <div class="row">
         <div class="col-lg-6 col-lg-offset-3">
         <span>
-            <div>Profile Information:</div>
+            <div>User Authentication:</div>
             {{ user_form.as_p }}</span>
         </div>
         <div class="col-lg-6">
         <span>
-            <div>Company Information:</div>
-            {{ company_form.as_p }}
+            <div>Profile Information:</div>
+            {{ profile_form.as_p }}
         </span>
         </div>
         {% csrf_token %}

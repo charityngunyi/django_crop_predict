@@ -7,6 +7,7 @@ from django.conf import settings
 # Create your models here.
 
 
+# question model that will allow to create an environment where farmers can ask a question and get help from various stakeholders.
 class Question(models.Model):
     title = models.CharField(max_length=250)
     author = models.ForeignKey(User, on_delete=models.CASCADE, related_name='questions')

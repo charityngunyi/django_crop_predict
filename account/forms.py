@@ -1,7 +1,9 @@
 from django import forms
 from django.contrib.auth.models import User
+from.models import Profile
 
 
+# User registration form
 class UserRegistrationForm(forms.ModelForm):
     password = forms.CharField(label='Password',
                                widget=forms.PasswordInput)
@@ -19,9 +21,15 @@ class UserRegistrationForm(forms.ModelForm):
         return cd['password2']
 
 
+# Edit form to allow change user details
 class UserEditForm(forms.ModelForm):
     class Meta:
         model = User
         fields = ('first_name', 'last_name', 'email')
 
 
+# Edit profile form to change profile details
+class ProfileEditForm(forms.ModelForm):
+    class Meta:
+        model = Profile
+        fields = ('portfolio', 'photo')

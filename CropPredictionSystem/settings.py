@@ -171,7 +171,7 @@ COMMENTS_XTD_SALT = (b"Timendi causa est nescire. "
 COMMENTS_XTD_FROM_EMAIL = "ngunyicharity@gmail.com"
 # Contact mail address to show in messages.
 COMMENTS_XTD_CONTACT_EMAIL = "ngunyicharity@gmail.com"
-# LOGIN_REDIRECT_URL = 'account:dashboard'
+LOGIN_REDIRECT_URL = 'account:dashboard'
 LOGIN_URL = 'login'
 LOGOUT_URL = 'logout'
 AUTHENTICATION_BACKENDS = (

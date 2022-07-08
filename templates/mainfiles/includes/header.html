@@ -1,8 +1,18 @@
-<div>
-    <ul>
-        {% if request.user.is_authenticated %}
+
+<div class="collapse navbar-collapse" id="navbarNavDarkDropdown">
+    <ul class="navbar-nav">
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+          MyAccount
+        </a>
+        <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
+            {% if request.user.is_authenticated %}
             <li><h3>Hello {{ request.user.first_name }}</h3></li>
            <span></span>
+           <li>
+            <a href="{% url "account:dashboard" %}">Profile</a>
+        </li>
+        <span></span>
             <li>
                 <a href="{% url "logout" %}">LogOut</a>
             </li>
@@ -16,4 +26,7 @@
         {% endif %}
         </ul>
 
-</div>
+        </ul>
+      </li>
+    </ul>
+  </div>
