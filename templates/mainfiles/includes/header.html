@@ -7,7 +7,7 @@
         </a>
         <ul class="dropdown-menu dropdown-menu-dark" aria-labelledby="navbarDarkDropdownMenuLink">
             {% if request.user.is_authenticated %}
-            <li><h3>Hello {{ request.user.first_name }}</h3></li>
+            <li><h3 id="user">Hello {{ request.user.first_name }}</h3></li>
            <span></span>
            <li>
             <a href="{% url "account:dashboard" %}">Profile</a>
