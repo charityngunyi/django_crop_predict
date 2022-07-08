@@ -8,13 +8,13 @@ ul{
     display: block;
 }
 ul li{
-    display:inline-block;
+    /* display:inline-block; */
     list-style-type: none;
 }
 ul li a{
     font-family: sans-serif;
     color: #f7f7f7;
-    display: block;
+    /* display: block; */
     text-decoration: none;
     font-size: 17px;
     padding: 5px 0px;
@@ -77,3 +77,6 @@ h2{
 #nav1 li a {
     color: #1b1e21;
 }
+#thecontainer {
+    width: 100%;
+  }

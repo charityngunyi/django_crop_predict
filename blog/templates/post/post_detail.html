@@ -1,0 +1,44 @@
+{% extends "mainfiles/base.html" %}
+{% block title %}
+{% if category %}{{ category.title }}{% else %}Crops{% endif %}
+{% endblock %}
+{% block content %}
+      <div class="container">
+          <div class="row">
+              <div class="col-lg-3">
+                  <h1 class="my-4">Category</h1>
+                  <div class="list-group">
+                      <a href="{{ crop.category.get_absolute_url }}" class="list-group-item active">{{ crop.category }}</a>
+                  </div>
+              </div>
+              <div class="col-lg-9">
+                  <div class="card mt-4">
+                      <div class="card-body">
+                          <h1 class="card-title">{{ crop.title }}</h1>
+
+                      </div>
+                  </div>
+        <!-- /.card -->
+
+        <div class="card card-outline-secondary my-4">
+          <div class="card-header">
+            Crop Description
+          </div>
+          <div class="card-body">
+            <p>{{ crop.body}}</p>
+              <hr>
+            <small class="text-muted">Posted on {{ crop.publish }}</small>
+            <hr>
+            <hr>
+           
+          </div>
+        </div>
+        <!-- /.card -->
+                
+      </div>
+      <!-- /.col-lg-9 -->
+
+    </div>
+
+  </div>
+{% endblock %}

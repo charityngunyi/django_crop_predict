@@ -1,3 +1,7 @@
+$("#home").load(AboutUs());
+function loadUrl(AboutLocation){
+    window.location = AboutLocation;
+}
 function AboutUs() {
     // $('#slideshow').show();
     var output = '<div class="container">';

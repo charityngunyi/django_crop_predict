@@ -1,22 +1,17 @@
 {% extends "mainfiles/base.html" %}
 {% load static %}
-{% block title %}Create an account{% endblock %}
+{% block title %}InformMe Crop Prediction System{% endblock %}
 {% block stylesheet %}
     <link href="{% static 'information/css/main.css' %}" rel="stylesheet">
 {% endblock %}
 {% block content %}
     <div class="container" id="thecontainer">
-        <div id="slideshow" class="intro">
-            <div class="myslide"><img src="{% static 'information/img/home1.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home2.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home3.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home4.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home5.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home6.webp' %}" style="width:100%"/></div>
-            <div class="myslide"><img src="{% static 'information/img/home7.webp' %}" style="width:100%"/></div>
-        </div>
         <span></span>
-        <hr />
+        
+            {% include 'information/includes/carousel.html' %}
+            <div>
+            <hr />
+        
         <div class="main-container">
             <div id="div1">
                 <div class="row">
@@ -36,7 +31,7 @@
                             <li class="center">
                                 <div>
                                     <button class="bg-primary">
-                                        <a href="javascript:AboutUs()">
+                                        <a href="javascript:AboutUs()" onclick="loadUrl('{% url "information_system:about" %}'); return false;">
                                             Learn More about Us.
                                         </a>
                                     </button>
@@ -60,7 +55,7 @@
                             <li class="center">
                                 <div>
                                     <button class="bg-primary">
-                                        <a href="javascript:HowToPredict()">
+                                        <a href="javascript:HowToPredict()" onclick="loadUrl('{% url "information_system:about" %}'); return false;">
                                             How to Predict
                                         </a>
                                     </button>
@@ -90,7 +85,7 @@
                             <li class="center">
                                 <div>
                                     <button class="bg-primary">
-                                        <a href="javascript:SoilSamplingProcure()">
+                                        <a href="javascript:SoilSamplingProcure()" onclick="loadUrl('{% url "information_system:about" %}'); return false;">
                                             Soil Sampling Procedure
                                         </a>
                                     </button>
@@ -114,7 +109,7 @@
                             <li class="center">
                                 <div>
                                     <button class="bg-primary">
-                                        <a href="javascript:FarmersPlatform()">
+                                        <a href="javascript:FarmersPlatform()" onclick="loadUrl('{% url "information_system:about" %}'); return false;">
                                             About Customer Support
                                         </a>
                                     </button>
@@ -131,6 +126,5 @@
     </div>
 {% endblock %}
 {% block javascript %}
-    <script src="{% static 'information/js/homeimage.js' %}"></script>
-    <script src="{% static 'information/js/home.js' %}"></script>
+<script src="{% static 'information/js/home.js' %}"></script>
 {% endblock %}

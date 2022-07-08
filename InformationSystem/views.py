@@ -21,11 +21,11 @@ class AboutListView(ListView):
 # about detail
 class AboutDetailView(DetailView):
     model = About
-    template_name = 'information/about.html'
+    template_name = 'information/about_detail.html'
     context_object_name = 'about_detail'
 
-# def about(request):
-    # return render(request, 'information/about.html')
+def about(request):
+    return render(request, 'information/about.html')
 
 def crops_information_view(request):
     return render(request, 'information/information_system.html')
